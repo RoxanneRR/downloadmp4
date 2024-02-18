@@ -7,9 +7,9 @@ Django项目，调用yl-dl模块下载视频，目前可用
 
 ### 环境
 
-* python3.8以上
-* 安装ffmpeg，写入路径
-* python模块Django  youtube-dl  yt-dlp
+* Python3.8以上
+* 安装[FFmpeg](https://ffmpeg.org//)，路径写入环境变量
+* Python模块Django  youtube-dl  yt-dlp
 
 ### 运行
 
@@ -24,3 +24,7 @@ python manage.py runserver
 ### 使用
 
 输入链接点击下载即可
+
+### 示例
+
+[示例网站}(wenruxiaow.link:4455)
