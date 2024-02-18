@@ -27,4 +27,4 @@ python manage.py runserver
 
 ### 示例
 
-[示例网站}(wenruxiaow.link:4455)
+[示例网站](wenruxiaow.link:4455)
