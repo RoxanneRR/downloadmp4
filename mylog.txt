@@ -1,0 +1,2171 @@
+nohup: ignoring input
+Watching for file changes with StatReloader
+[17/Feb/2024 14:09:40] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 14:09:40] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 14:09:57,810] - Broken pipe from ('111.183.82.61', 19662)
+[17/Feb/2024 14:09:57,814] - Broken pipe from ('111.183.82.61', 19516)
+[17/Feb/2024 14:10:19] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 14:10:47] "POST / HTTP/1.1" 200 580
+[17/Feb/2024 14:10:49] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03\x96\\Õ\x84%O')
+[17/Feb/2024 14:10:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:10:50] code 400, message Bad request version ('³')
+[17/Feb/2024 14:10:50] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:10:51] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 14:10:53] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 14:10:54] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 14:11:17,889] - Broken pipe from ('111.183.82.61', 19680)
+[17/Feb/2024 14:11:17,890] - Broken pipe from ('111.183.82.61', 19584)
+[17/Feb/2024 14:13:04] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 14:13:05] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 14:13:05] "GET /favicon.ico HTTP/1.1" 404 2218
+Not Found: /favicon.ico
+[17/Feb/2024 14:13:05] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 14:13:32,679] - Broken pipe from ('111.183.82.61', 19682)
+[17/Feb/2024 14:13:32,689] - Broken pipe from ('111.183.82.61', 19641)
+[17/Feb/2024 14:14:21] "POST / HTTP/1.1" 200 580
+[17/Feb/2024 14:14:27] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 14:14:49] "GET /favicon.ico HTTP/1.1" 404 2218
+Not Found: /favicon.ico
+[17/Feb/2024 14:15:05] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 14:15:18,437] - Broken pipe from ('111.183.82.61', 19525)
+[17/Feb/2024 14:15:18,448] - Broken pipe from ('111.183.82.61', 19567)
+[17/Feb/2024 14:20:02] code 400, message Bad request version ('ïî[\x08+\x17')
+[17/Feb/2024 14:20:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:20:02] code 400, message Bad request version ('zz\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[17/Feb/2024 14:20:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:20:03] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+[17/Feb/2024 14:20:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:20:03] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03lÚ\x81é\x04\x18²!-Ì\x84<\x19¬ñ'\x19\x03³\x82ãõ\x99\x9a\x16ð\x9b\x06B\x9dP\x08")
+[17/Feb/2024 14:20:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:20:03] code 400, message Bad request version ('ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93\x8a\x8a\x00\x00\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[17/Feb/2024 14:20:03] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:20:04] code 400, message Bad request version ('\x1a\x1a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93')
+[17/Feb/2024 14:20:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:20:07] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 14:20:08] "GET /favicon.ico HTTP/1.1" 404 2216
+Not Found: /favicon.ico
+[17/Feb/2024 14:24:32] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 14:24:36] "POST / HTTP/1.1" 200 580
+[17/Feb/2024 14:29:18] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00ì\x01\x00\x00è\x03\x03¡*LU\x1aj\x86\x81J"ÑÏF\x08~ú>\x98Âå\x03Â^ü')
+[17/Feb/2024 14:29:19] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 14:35:44] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 14:36:14] "POST / HTTP/1.1" 200 459
+[17/Feb/2024 14:50:21] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 14:51:32] "POST / HTTP/1.1" 200 580
+[17/Feb/2024 14:51:36] "POST / HTTP/1.1" 200 886
+[17/Feb/2024 14:59:45] "POST / HTTP/1.1" 200 580
+[17/Feb/2024 15:30:58] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 15:33:09] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 15:33:20] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 15:33:22] "HEAD / HTTP/1.1" 200 0
+[17/Feb/2024 15:33:22] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 15:33:22] "POST / HTTP/1.1" 200 566
+[17/Feb/2024 15:35:21] "POST / HTTP/1.1" 200 580
+[17/Feb/2024 15:35:45] "POST / HTTP/1.1" 200 580
+[17/Feb/2024 15:36:07] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 15:58:30] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 15:58:31] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 16:14:28] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00')
+[17/Feb/2024 16:14:28] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 16:14:30] code 400, message Bad request syntax ('\x16\x03\x01\x02R\x01\x00\x02N\x03\x03Tt')
+[17/Feb/2024 16:14:30] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 16:14:31] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 16:14:33] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 16:32:11] code 400, message Bad request version ('\x00\x02\x01\x00\x00')
+[17/Feb/2024 16:32:11] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 16:32:11] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 16:32:12] code 400, message Bad request version ('\x7f\x18\x00-\x00\x02\x01\x01\x00')
+[17/Feb/2024 16:32:12] You're accessing the development server over HTTPS, but it only supports HTTP.
+[17/Feb/2024 17:13:24] "GET / HTTP/1.1" 200 443
+[17/Feb/2024 17:14:20] "POST / HTTP/1.1" 200 459
+[17/Feb/2024 17:16:09] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 17:16:09] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 17:16:15] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[17/Feb/2024 17:16:16] "GET /favicon.ico HTTP/1.1" 404 2218
+[17/Feb/2024 17:16:32] "POST / HTTP/1.1" 200 459
+[17/Feb/2024 17:16:48,516] - Broken pipe from ('111.183.82.61', 19497)
+[17/Feb/2024 17:16:48,527] - Broken pipe from ('111.183.82.61', 19589)
+[18/Feb/2024 05:19:00] "GET / HTTP/1.1" 200 443
+Not Found: /favicon.ico
+[18/Feb/2024 05:19:02] "GET /favicon.ico HTTP/1.1" 404 2216
+[18/Feb/2024 05:35:57] "GET / HTTP/1.1" 200 443
+[18/Feb/2024 10:35:45] "GET / HTTP/1.0" 200 443
+Not Found: /favicon.ico
+[18/Feb/2024 10:35:46] "GET /favicon.ico HTTP/1.0" 404 2216
+[18/Feb/2024 12:41:47] "GET / HTTP/1.0" 200 443
+[18/Feb/2024 12:42:34] "GET / HTTP/1.0" 200 443
+[18/Feb/2024 12:42:53] "GET / HTTP/1.0" 200 443
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 17, 2024 - 14:08:22
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+yt-dlp下载失败，尝试使用youtube-dl...
+yt-dlp下载失败，尝试使用youtube-dl...
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:05:52
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:13:03
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:14:35
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/commands/runserver.py", line 133, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 519, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 738, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 731, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/urls.py", line 19, in <module>
+    from myapp.views import index
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/views.py", line 3, in <module>
+    from .scraper import download_video  # 确保从scraper.py导入download_video函数
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py", line 23
+    ydl_opts = {
+IndentationError: unexpected indent
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:18:32
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:18:34
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:18:48
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:18:50
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:19:15
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:20:28
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:21:16
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:22:46
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[18/Feb/2024 13:40:19] "GET / HTTP/1.0" 200 443
+Not Found: /favicon.ico
+[18/Feb/2024 13:40:19] "GET /favicon.ico HTTP/1.0" 404 2216
+[18/Feb/2024 13:40:19] "GET / HTTP/1.0" 200 443
+[18/Feb/2024 13:40:59] "GET / HTTP/1.0" 200 443
+[18/Feb/2024 13:41:01] "GET / HTTP/1.0" 200 443
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:29:38
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:46:06
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:46:49
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/commands/runserver.py", line 133, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 519, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 738, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 731, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/urls.py", line 19, in <module>
+    from myapp.views import index
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/views.py", line 3, in <module>
+    from .scraper import download_video  # 确保从scraper.py导入download_video函数
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py", line 18, in <module>
+    filename = extract_filename(output)
+NameError: name 'output' is not defined
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:47:02
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:55:11
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:56:29
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/commands/runserver.py", line 133, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 519, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 738, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 731, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/urls.py", line 19, in <module>
+    from myapp.views import index
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/views.py", line 3, in <module>
+    from .scraper import download_video  # 确保从scraper.py导入download_video函数
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py", line 56
+    return f'下载成功 : )'+
+                               ^
+SyntaxError: invalid syntax
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:58:08
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 13:58:24
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:04:43
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/commands/runserver.py", line 133, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 519, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 738, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 731, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/urls.py", line 19, in <module>
+    from myapp.views import index
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/views.py", line 12
+    if os.path.exists(output_filename):
+                                       ^
+IndentationError: unindent does not match any outer indentation level
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/commands/runserver.py", line 133, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 519, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 738, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 731, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/urls.py", line 19, in <module>
+    from myapp.views import index
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/views.py", line 14
+    with open(output_filename, 'rb') as video_file:
+    ^
+IndentationError: expected an indented block after 'if' statement on line 12
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/scraper.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:08:31
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:13:59
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:14:38
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:14:45
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:14:48
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:16:55
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:18:36
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 14:18:43
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:01:54
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:07:08
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:07:25
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:08:21
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:11:19
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:17:21
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:17:25
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:21:58
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:26:00
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:29:34
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:30:32
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+Exception in thread django-main-thread:
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/threading.py", line 1016, in _bootstrap_inner
+    self.run()
+  File "/usr/lib/python3.10/threading.py", line 953, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/autoreload.py", line 64, in wrapper
+    fn(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/commands/runserver.py", line 133, in inner_run
+    self.check(display_num_errors=True)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/management/base.py", line 486, in check
+    all_issues = checks.run_checks(
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/registry.py", line 88, in run_checks
+    new_errors = check(app_configs=app_configs, databases=databases)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 14, in check_url_config
+    return check_resolver(resolver)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/checks/urls.py", line 24, in check_resolver
+    return check_method()
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 519, in check
+    for pattern in self.url_patterns:
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 738, in url_patterns
+    patterns = getattr(self.urlconf_module, "urlpatterns", self.urlconf_module)
+  File "/usr/local/lib/python3.10/dist-packages/django/utils/functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/usr/local/lib/python3.10/dist-packages/django/urls/resolvers.py", line 731, in urlconf_module
+    return import_module(self.urlconf_name)
+  File "/usr/lib/python3.10/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1050, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/urls.py", line 19, in <module>
+    from myapp.views import index
+  File "/www/wwwroot/PyhtonP/dmp4/myapp/views.py", line 25
+    if os.path.exists(output_filename)
+                                      ^
+SyntaxError: expected ':'
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:39:20
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[18/Feb/2024 15:57:16] "GET / HTTP/1.0" 200 1120
+Forbidden (Origin checking failed - http://dl.wenruxiaow.link does not match any trusted origins.): /
+[18/Feb/2024 15:59:12] "POST / HTTP/1.0" 403 2572
+Not Found: /favicon.ico
+[18/Feb/2024 15:59:23] "GET /favicon.ico HTTP/1.0" 404 2325
+[18/Feb/2024 15:59:39] "GET / HTTP/1.1" 200 1120
+Not Found: /favicon.ico
+[18/Feb/2024 15:59:46] "GET /favicon.ico HTTP/1.1" 404 2327
+[18/Feb/2024 16:00:02] "POST / HTTP/1.1" 200 1598
+[18/Feb/2024 16:00:02] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E4%BD%A0%E5%B0%B1%E7%8E%A9%E5%90%A7%20%E5%A7%90%E9%83%BD%E5%AD%A6%E4%B8%80%E5%A4%A9%E4%BA%86%20%E4%B8%80%E5%AD%A6%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:00:09] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E4%BD%A0%E5%B0%B1%E7%8E%A9%E5%90%A7%20%E5%A7%90%E9%83%BD%E5%AD%A6%E4%B8%80%E5%A4%A9%E4%BA%86%20%E4%B8%80%E5%AD%A6%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%90%B1%E5%A3%B0.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:00:18] "GET /download HTTP/1.1" 301 0
+Internal Server Error: /download/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.download didn't return an HttpResponse object. It returned None instead.
+[18/Feb/2024 16:00:18] "GET /download/ HTTP/1.1" 500 59396
+[18/Feb/2024 16:00:33] "GET /download HTTP/1.1" 301 0
+Internal Server Error: /download/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py", line 204, in _get_response
+    self.check_response(response, callback)
+  File "/usr/local/lib/python3.10/dist-packages/django/core/handlers/base.py", line 332, in check_response
+    raise ValueError(
+ValueError: The view myapp.views.download didn't return an HttpResponse object. It returned None instead.
+[18/Feb/2024 16:00:34] "GET /download/ HTTP/1.1" 500 59395
+[18/Feb/2024 16:01:48] "POST / HTTP/1.1" 200 1417
+[18/Feb/2024 16:01:54,458] - Broken pipe from ('111.181.13.106', 17839)
+[18/Feb/2024 16:01:54,464] - Broken pipe from ('111.181.13.106', 17909)
+[18/Feb/2024 16:01:54,470] - Broken pipe from ('111.181.13.106', 17855)
+[18/Feb/2024 16:02:04] "GET / HTTP/1.1" 200 1208
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 15:40:19
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://b23.tv/KVrtV2D
+[generic] KVrtV2D: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV15v421y7v1/?-Arouter=story&buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=tm.recommend.0.0&is_story_h5=true&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=android&share_plat=android&share_session_id=8fb94c05-d70e-4c2b-83fd-49250d6fad01&share_source=COPY&share_tag=s_i&spmid=main.ugc-video-detail-vertical.0.0&timestamp=1708271945&unique_k=KVrtV2D&up_id=1165713884
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV15v421y7v1/?-Arouter=story&buvid=XYF45F4FF0AB97B6A494895E5635639...V2D&up_id=1165713884
+[BiliBili] 15v421y7v1: Downloading webpage
+[BiliBili] BV15v421y7v1: Extracting videos in anthology
+[BiliBili] 1450591115: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV15v421y7v1_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/你就玩吧 姐都学一天了 一学一个不吱声.f100110.mp4
+
+[download]   0.1% of    1.60MiB at  565.19KiB/s ETA 00:02
+[download]   0.2% of    1.60MiB at    1.01MiB/s ETA 00:01
+[download]   0.4% of    1.60MiB at    1.84MiB/s ETA 00:00
+[download]   0.9% of    1.60MiB at    2.75MiB/s ETA 00:00
+[download]   1.9% of    1.60MiB at    4.77MiB/s ETA 00:00
+[download]   3.8% of    1.60MiB at    1.28MiB/s ETA 00:01
+[download]   7.8% of    1.60MiB at    1.17MiB/s ETA 00:01
+[download]  15.6% of    1.60MiB at    1.08MiB/s ETA 00:01
+[download]  31.2% of    1.60MiB at    1.04MiB/s ETA 00:01
+[download]  62.5% of    1.60MiB at    1.02MiB/s ETA 00:00
+[download] 100.0% of    1.60MiB at    1.18MiB/s ETA 00:00
+[download] 100% of    1.60MiB in 00:00:01 at 1.14MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/你就玩吧 姐都学一天了 一学一个不吱声.f30280.m4a
+
+[download]   0.3% of  293.82KiB at  820.80KiB/s ETA 00:00
+[download]   1.0% of  293.82KiB at    1.19MiB/s ETA 00:00
+[download]   2.4% of  293.82KiB at    1.04MiB/s ETA 00:00
+[download]   5.1% of  293.82KiB at    1.84MiB/s ETA 00:00
+[download]  10.6% of  293.82KiB at    2.59MiB/s ETA 00:00
+[download]  21.4% of  293.82KiB at    1.24MiB/s ETA 00:00
+[download]  43.2% of  293.82KiB at    2.40MiB/s ETA 00:00
+[download]  86.8% of  293.82KiB at    4.47MiB/s ETA 00:00
+[download] 100.0% of  293.82KiB at    4.75MiB/s ETA 00:00
+[download] 100% of  293.82KiB in 00:00:00 at 3.42MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/你就玩吧 姐都学一天了 一学一个不吱声.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/你就玩吧 姐都学一天了 一学一个不吱声.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/你就玩吧 姐都学一天了 一学一个不吱声.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/你就玩吧 姐都学一天了 一学一个不吱声.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://m.tv.sohu.com/u/vw/515714616.shtml?channeled=1210010300&columnid=15
+[generic] 515714616: Downloading webpage
+[redirect] Following redirect to https://tv.sohu.com/v/dXMvMzkzNDE4MzY5LzUxNTcxNDYxNi5zaHRtbA==.html?vid=515714616&wx=0&channeled=1210010300&columnid=15
+[SohuV] Extracting URL: https://tv.sohu.com/v/dXMvMzkzNDE4MzY5LzUxNTcxNDYxNi5zaHRtbA==.html?vid=515714616&wx=0&channeled=1210010300&columnid=15
+[Sohu] Extracting URL: http://my.tv.sohu.com/us/393418369/515714616.shtml
+[Sohu] 515714616: Downloading webpage
+[Sohu] 515714616: Downloading JSON data for 515714616
+[Sohu] 515714616: Downloading JSON data for 515714616_1
+[Sohu] 515714616: Downloading JSON data for 515714616_21
+[Sohu] 515714616: Downloading JSON data for 515714616_31
+[Sohu] 515714616: Downloading high video URL part 1 of 1
+[Sohu] 515714616: Downloading super video URL part 1 of 1
+[Sohu] 515714616: Downloading ori video URL part 1 of 1
+[info] 515714616: Downloading 1 format(s): ori
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/汽车跌下60米高悬崖，车辆翻滚乘客全程尖叫仅受轻伤，行车记录仪拍下全程.mp4
+
+[download]   0.0% of   29.63MiB at    570.44B/s ETA 15:07:52
+[download]   0.0% of   29.63MiB at    887.46B/s ETA 09:43:32
+[download]   0.0% of   29.63MiB at    1.49KiB/s ETA 05:40:18
+[download]   0.0% of   29.63MiB at    2.72KiB/s ETA 03:05:41
+[download]   0.0% of   29.63MiB at    5.20KiB/s ETA 01:37:19
+[download]   0.1% of   29.63MiB at   10.14KiB/s ETA 49:51   
+[download]   0.1% of   29.63MiB at   20.02KiB/s ETA 25:13
+[download]   0.2% of   29.63MiB at   39.23KiB/s ETA 12:51
+[download]   0.5% of   29.63MiB at   76.72KiB/s ETA 06:33
+[download]   0.9% of   29.63MiB at  150.72KiB/s ETA 03:19
+[download]   1.9% of   29.63MiB at  294.77KiB/s ETA 01:41
+[download]   3.8% of   29.63MiB at  331.38KiB/s ETA 01:28
+[download]   5.0% of   29.63MiB at  351.76KiB/s ETA 01:21
+[download]   6.4% of   29.63MiB at  391.85KiB/s ETA 01:12
+[download]   8.6% of   29.63MiB at  461.90KiB/s ETA 01:00
+[download]  11.8% of   29.63MiB at  581.37KiB/s ETA 00:46
+[download]  17.8% of   29.63MiB at  566.29KiB/s ETA 00:44
+[download]  20.9% of   29.63MiB at  604.67KiB/s ETA 00:39
+[download]  24.2% of   29.63MiB at  659.15KiB/s ETA 00:34
+[download]  29.2% of   29.63MiB at  746.76KiB/s ETA 00:28
+[download]  36.1% of   29.63MiB at  792.04KiB/s ETA 00:24
+[download]  39.6% of   29.63MiB at  749.69KiB/s ETA 00:24
+[download]  41.4% of   29.63MiB at  750.52KiB/s ETA 00:23
+[download]  43.9% of   29.63MiB at  775.32KiB/s ETA 00:21
+[download]  49.0% of   29.63MiB at  828.05KiB/s ETA 00:18
+[download]  55.6% of   29.63MiB at  865.60KiB/s ETA 00:15
+[download]  59.9% of   29.63MiB at  896.13KiB/s ETA 00:13
+[download]  65.4% of   29.63MiB at  870.90KiB/s ETA 00:12
+[download]  68.1% of   29.63MiB at  855.78KiB/s ETA 00:11
+[download]  70.1% of   29.63MiB at  875.96KiB/s ETA 00:10
+[download]  74.0% of   29.63MiB at  895.04KiB/s ETA 00:08
+[download]  78.8% of   29.63MiB at  902.31KiB/s ETA 00:07
+[download]  82.2% of   29.63MiB at  902.60KiB/s ETA 00:05
+[download]  85.2% of   29.63MiB at  916.71KiB/s ETA 00:04
+[download]  90.5% of   29.63MiB at  940.00KiB/s ETA 00:03
+[download]  95.8% of   29.63MiB at  883.70KiB/s ETA 00:01
+[download]  98.4% of   29.63MiB at  895.44KiB/s ETA 00:00
+[download] 100.0% of   29.63MiB at  907.70KiB/s ETA 00:00
+[download] 100% of   29.63MiB in 00:00:35 at 864.62KiB/s
+None
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:02:22] "POST / HTTP/1.1" 200 1689
+[18/Feb/2024 16:02:22] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:02:25] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:02:48] "GET / HTTP/1.1" 200 1208
+Not Found: /favicon.ico
+[18/Feb/2024 16:02:49] "GET /favicon.ico HTTP/1.1" 404 2327
+[18/Feb/2024 16:02:50,749] - Broken pipe from ('111.181.13.106', 18063)
+[18/Feb/2024 16:03:05] "POST / HTTP/1.1" 200 1749
+[18/Feb/2024 16:03:06] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:03:08] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:03:08] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:03:11] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:03:12] "HEAD /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 0
+[18/Feb/2024 16:03:13] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:03:30,097] - Broken pipe from ('111.181.13.106', 17898)
+[18/Feb/2024 16:03:30,101] - Broken pipe from ('111.181.13.106', 17989)
+[18/Feb/2024 16:03:30,105] - Broken pipe from ('111.181.13.106', 17938)
+[18/Feb/2024 16:03:30,106] - Broken pipe from ('111.181.13.106', 18039)
+[18/Feb/2024 16:03:33] code 400, message Bad request version ('Gmno\x1aè4ÄÈ¨I\xadBV\x05µýß\x18\x8a\x0f¤FÅ\x00\x00\x00\x14\x00\x12\x00\x00\x0fwenruxiaow.link\x00')
+[18/Feb/2024 16:03:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Feb/2024 16:03:34] code 400, message Bad request version ('\x00\x12\x00\x10\x04\x03\x08\x04\x04\x01\x05\x03\x08\x05\x05\x01\x08\x06\x06\x01\x00\x12\x00\x00\x00+\x00\x07\x06ºº\x03\x04\x03\x03ÿ\x01\x00\x01\x00\x00\x05\x00\x05\x01\x00\x00\x00\x00\x00\x00\x00\x14\x00\x12\x00\x00\x0fwenruxiaow.link\x00')
+[18/Feb/2024 16:03:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Feb/2024 16:03:35] code 400, message Bad request syntax ('\x16\x03\x01\x024\x01\x00\x020\x03\x03ÆÈæ.8Ë¿¾½Æ|w0îõ-b,E·%>Ý,Æ¨ibðÕ')
+[18/Feb/2024 16:03:35] You're accessing the development server over HTTPS, but it only supports HTTP.
+[18/Feb/2024 16:03:37] "GET / HTTP/1.1" 200 1268
+Not Found: /favicon.ico
+[18/Feb/2024 16:03:42] "GET /favicon.ico HTTP/1.1" 404 2327
+[18/Feb/2024 16:03:49] code 400, message Bad request version ('\x00\x02\x01\x00\x00\x00\x00\x14\x00\x12\x00\x00\x0fwenruxiaow.link\x00')
+[18/Feb/2024 16:03:49] You're accessing the development server over HTTPS, but it only supports HTTP.
+[generic] Extracting URL: https://b23.tv/w7BIfu9
+[generic] w7BIfu9: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=ad.tianma.tm-recommendation-card.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2f31260b-9782-4860-ac3b-9b0e8beedb23&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272118&unique_k=w7BIfu9&up_id=434378423
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...Ifu9&up_id=434378423
+[BiliBili] 1Sc411e7rC: Downloading webpage
+[BiliBili] BV1Sc411e7rC: Extracting videos in anthology
+[BiliBili] 284215785: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧, 4K 超清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Sc411e7rC_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4
+
+[download]   0.0% of    4.74MiB at  Unknown B/s ETA Unknown
+[download]   0.1% of    4.74MiB at    1.30MiB/s ETA 00:03  
+[download]   0.1% of    4.74MiB at    2.22MiB/s ETA 00:02
+[download]   0.3% of    4.74MiB at    3.53MiB/s ETA 00:01
+[download]   0.6% of    4.74MiB at    6.03MiB/s ETA 00:00
+[download]   1.3% of    4.74MiB at    1.29MiB/s ETA 00:03
+[download]   2.6% of    4.74MiB at    1.15MiB/s ETA 00:04
+[download]   5.2% of    4.74MiB at    1.07MiB/s ETA 00:04
+[download]  10.5% of    4.74MiB at    1.03MiB/s ETA 00:04
+[download]  21.1% of    4.74MiB at    1.02MiB/s ETA 00:03
+[download]  42.1% of    4.74MiB at    1.01MiB/s ETA 00:02
+[download]  63.3% of    4.74MiB at    1.00MiB/s ETA 00:01
+[download]  84.2% of    4.74MiB at 1022.75KiB/s ETA 00:00
+[download] 100.0% of    4.74MiB at    1.06MiB/s ETA 00:00
+[download] 100% of    4.74MiB in 00:00:04 at 994.00KiB/s 
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a
+
+[download]   0.0% of    2.15MiB at  Unknown B/s ETA Unknown
+[download]   0.1% of    2.15MiB at    1.30MiB/s ETA 00:01  
+[download]   0.3% of    2.15MiB at    1.85MiB/s ETA 00:01
+[download]   0.7% of    2.15MiB at    1.03MiB/s ETA 00:02
+[download]   1.4% of    2.15MiB at    1.94MiB/s ETA 00:01
+[download]   2.9% of    2.15MiB at    3.74MiB/s ETA 00:00
+[download]   5.8% of    2.15MiB at    1.61MiB/s ETA 00:01
+[download]  11.6% of    2.15MiB at    1.18MiB/s ETA 00:01
+[download]  23.2% of    2.15MiB at    1.09MiB/s ETA 00:01
+[download]  46.5% of    2.15MiB at    1.04MiB/s ETA 00:01
+[download]  92.9% of    2.15MiB at    1.05MiB/s ETA 00:00
+[download] 100.0% of    2.15MiB at    1.13MiB/s ETA 00:00
+[download] 100% of    2.15MiB in 00:00:01 at 1.12MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://b23.tv/w7BIfu9
+[generic] w7BIfu9: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=ad.tianma.tm-recommendation-card.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2f31260b-9782-4860-ac3b-9b0e8beedb23&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272118&unique_k=w7BIfu9&up_id=434378423
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...Ifu9&up_id=434378423
+[BiliBili] 1Sc411e7rC: Downloading webpage
+[BiliBili] BV1Sc411e7rC: Extracting videos in anthology
+[BiliBili] 284215785: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧, 4K 超清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Sc411e7rC_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4
+
+[download]   0.0% of    4.74MiB at  806.60KiB/s ETA 00:06
+[download]   0.1% of    4.74MiB at    1.38MiB/s ETA 00:03
+[download]   0.1% of    4.74MiB at    2.38MiB/s ETA 00:01
+[download]   0.3% of    4.74MiB at   79.82KiB/s ETA 01:00
+[download]   0.6% of    4.74MiB at  147.17KiB/s ETA 00:32
+[download]   1.3% of    4.74MiB at  169.79KiB/s ETA 00:28
+[download]   2.6% of    4.74MiB at  226.25KiB/s ETA 00:20
+[download]   5.2% of    4.74MiB at  333.28KiB/s ETA 00:13
+[download]  10.5% of    4.74MiB at  540.93KiB/s ETA 00:08
+[download]  21.1% of    4.74MiB at  913.30KiB/s ETA 00:04
+[download]  42.1% of    4.74MiB at    1.54MiB/s ETA 00:01
+[download]  84.3% of    4.74MiB at    2.74MiB/s ETA 00:00
+[download] 100.0% of    4.74MiB at    3.11MiB/s ETA 00:00
+[download] 100% of    4.74MiB in 00:00:02 at 1.88MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a
+
+[download]   0.0% of    2.15MiB at  913.00KiB/s ETA 00:02
+[download]   0.1% of    2.15MiB at    1.40MiB/s ETA 00:01
+[download]   0.3% of    2.15MiB at    2.44MiB/s ETA 00:00
+[download]   0.7% of    2.15MiB at   87.62KiB/s ETA 00:24
+[download]   1.4% of    2.15MiB at  164.52KiB/s ETA 00:13
+[download]   2.9% of    2.15MiB at  177.27KiB/s ETA 00:12
+[download]   5.8% of    2.15MiB at  230.76KiB/s ETA 00:08
+[download]  11.6% of    2.15MiB at  351.58KiB/s ETA 00:05
+[download]  23.2% of    2.15MiB at  574.91KiB/s ETA 00:02
+[download]  46.5% of    2.15MiB at  955.67KiB/s ETA 00:01
+[download]  92.9% of    2.15MiB at    1.63MiB/s ETA 00:00
+[download] 100.0% of    2.15MiB at    1.72MiB/s ETA 00:00
+[download] 100% of    2.15MiB in 00:00:02 at 1006.34KiB/s
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:03:54] "POST / HTTP/1.1" 200 1760
+[18/Feb/2024 16:03:55] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:04:02] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 7366143
+[18/Feb/2024 16:05:20,183] - Broken pipe from ('111.181.13.106', 17844)
+[18/Feb/2024 16:05:33] "POST / HTTP/1.1" 200 1603
+[18/Feb/2024 16:05:41] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:06:22,618] - Broken pipe from ('111.181.13.106', 17934)
+[18/Feb/2024 16:06:22,645] - Broken pipe from ('111.181.13.106', 17940)
+[generic] Extracting URL: https://b23.tv/w7BIfu9
+[generic] w7BIfu9: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=ad.tianma.tm-recommendation-card.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2f31260b-9782-4860-ac3b-9b0e8beedb23&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272118&unique_k=w7BIfu9&up_id=434378423
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...Ifu9&up_id=434378423
+[BiliBili] 1Sc411e7rC: Downloading webpage
+[BiliBili] BV1Sc411e7rC: Extracting videos in anthology
+[BiliBili] 284215785: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧, 4K 超清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Sc411e7rC_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4
+
+[download]   0.0% of    4.74MiB at  165.46KiB/s ETA 00:29
+[download]   0.1% of    4.74MiB at  408.06KiB/s ETA 00:11
+[download]   0.1% of    4.74MiB at  813.03KiB/s ETA 00:05
+[download]   0.3% of    4.74MiB at    1.44MiB/s ETA 00:03
+[download]   0.6% of    4.74MiB at    2.64MiB/s ETA 00:01
+[download]   1.3% of    4.74MiB at    4.79MiB/s ETA 00:00
+[download]   2.6% of    4.74MiB at    8.35MiB/s ETA 00:00
+[download]   5.2% of    4.74MiB at   13.95MiB/s ETA 00:00
+[download]  10.5% of    4.74MiB at   23.73MiB/s ETA 00:00
+[download]  21.1% of    4.74MiB at   22.10MiB/s ETA 00:00
+[download]  42.1% of    4.74MiB at   29.06MiB/s ETA 00:00
+[download]  84.3% of    4.74MiB at   33.94MiB/s ETA 00:00
+[download] 100.0% of    4.74MiB at   37.88MiB/s ETA 00:00
+[download] 100% of    4.74MiB in 00:00:00 at 22.91MiB/s  
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a
+
+[download]   0.0% of    2.15MiB at  763.02KiB/s ETA 00:02
+[download]   0.1% of    2.15MiB at    1.10MiB/s ETA 00:01
+[download]   0.3% of    2.15MiB at    1.94MiB/s ETA 00:01
+[download]   0.7% of    2.15MiB at    3.16MiB/s ETA 00:00
+[download]   1.4% of    2.15MiB at    4.68MiB/s ETA 00:00
+[download]   2.9% of    2.15MiB at    7.90MiB/s ETA 00:00
+[download]   5.8% of    2.15MiB at   14.09MiB/s ETA 00:00
+[download]  11.6% of    2.15MiB at   25.09MiB/s ETA 00:00
+[download]  23.2% of    2.15MiB at   16.89MiB/s ETA 00:00
+[download]  46.5% of    2.15MiB at   19.80MiB/s ETA 00:00
+[download]  92.9% of    2.15MiB at   20.11MiB/s ETA 00:00
+[download] 100.0% of    2.15MiB at   19.59MiB/s ETA 00:00
+[download] 100% of    2.15MiB in 00:00:00 at 12.43MiB/s  
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://b23.tv/w7BIfu9
+[generic] w7BIfu9: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=ad.tianma.tm-recommendation-card.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2f31260b-9782-4860-ac3b-9b0e8beedb23&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272118&unique_k=w7BIfu9&up_id=434378423
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...Ifu9&up_id=434378423
+[BiliBili] 1Sc411e7rC: Downloading webpage
+[BiliBili] BV1Sc411e7rC: Extracting videos in anthology
+[BiliBili] 284215785: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧, 4K 超清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Sc411e7rC_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4
+
+[download]   0.0% of    4.74MiB at  611.95KiB/s ETA 00:08
+[download]   0.1% of    4.74MiB at  884.38KiB/s ETA 00:05
+[download]   0.1% of    4.74MiB at    1.57MiB/s ETA 00:03
+[download]   0.3% of    4.74MiB at    2.68MiB/s ETA 00:01
+[download]   0.6% of    4.74MiB at    4.61MiB/s ETA 00:01
+[download]   1.3% of    4.74MiB at    1.36MiB/s ETA 00:03
+[download]   2.6% of    4.74MiB at    1.17MiB/s ETA 00:03
+[download]   5.2% of    4.74MiB at    1.08MiB/s ETA 00:04
+[download]  10.5% of    4.74MiB at    1.04MiB/s ETA 00:04
+[download]  21.1% of    4.74MiB at    1.02MiB/s ETA 00:03
+[download]  42.1% of    4.74MiB at    1.01MiB/s ETA 00:02
+[download]  63.2% of    4.74MiB at    1.01MiB/s ETA 00:01
+[download]  84.2% of    4.74MiB at    1.00MiB/s ETA 00:00
+[download] 100.0% of    4.74MiB at    1.06MiB/s ETA 00:00
+[download] 100% of    4.74MiB in 00:00:04 at 1.01MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a
+
+[download]   0.0% of    2.15MiB at  973.16KiB/s ETA 00:02
+[download]   0.1% of    2.15MiB at    1.73MiB/s ETA 00:01
+[download]   0.3% of    2.15MiB at    2.81MiB/s ETA 00:00
+[download]   0.7% of    2.15MiB at    4.35MiB/s ETA 00:00
+[download]   1.4% of    2.15MiB at    3.79MiB/s ETA 00:00
+[download]   2.9% of    2.15MiB at    1.41MiB/s ETA 00:01
+[download]   5.8% of    2.15MiB at    1.20MiB/s ETA 00:01
+[download]  11.6% of    2.15MiB at    1.09MiB/s ETA 00:01
+[download]  23.2% of    2.15MiB at    1.05MiB/s ETA 00:01
+[download]  46.5% of    2.15MiB at    1.03MiB/s ETA 00:01
+[download]  92.9% of    2.15MiB at    1.08MiB/s ETA 00:00
+[download] 100.0% of    2.15MiB at    1.16MiB/s ETA 00:00
+[download] 100% of    2.15MiB in 00:00:01 at 1.15MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:07:35] "POST / HTTP/1.1" 200 1681
+[18/Feb/2024 16:07:40] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:08:04] "POST / HTTP/1.1" 200 1681
+[18/Feb/2024 16:08:08] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%86%9D%E7%9B%96%E7%96%BC%E6%94%B9%E5%96%84%E3%80%91%E5%A6%82%E4%BD%95%E7%BB%83%E5%92%8C%E5%90%83%EF%BC%8C%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90%EF%BC%81.mp4 HTTP/1.1" 200 15
+[generic] Extracting URL: https://b23.tv/w7BIfu9
+[generic] w7BIfu9: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=ad.tianma.tm-recommendation-card.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2f31260b-9782-4860-ac3b-9b0e8beedb23&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272118&unique_k=w7BIfu9&up_id=434378423
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...Ifu9&up_id=434378423
+[BiliBili] 1Sc411e7rC: Downloading webpage
+[BiliBili] BV1Sc411e7rC: Extracting videos in anthology
+[BiliBili] 284215785: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧, 4K 超清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Sc411e7rC_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4
+
+[download]   0.0% of    4.74MiB at  842.74KiB/s ETA 00:05
+[download]   0.1% of    4.74MiB at    1.44MiB/s ETA 00:03
+[download]   0.1% of    4.74MiB at    2.43MiB/s ETA 00:01
+[download]   0.3% of    4.74MiB at    4.01MiB/s ETA 00:01
+[download]   0.6% of    4.74MiB at    6.83MiB/s ETA 00:00
+[download]   1.3% of    4.74MiB at    7.77MiB/s ETA 00:00
+[download]   2.6% of    4.74MiB at    9.98MiB/s ETA 00:00
+[download]   5.2% of    4.74MiB at   16.37MiB/s ETA 00:00
+[download]  10.5% of    4.74MiB at   24.61MiB/s ETA 00:00
+[download]  21.1% of    4.74MiB at   39.98MiB/s ETA 00:00
+[download]  42.1% of    4.74MiB at   55.96MiB/s ETA 00:00
+[download]  84.3% of    4.74MiB at   65.37MiB/s ETA 00:00
+[download] 100.0% of    4.74MiB at   68.40MiB/s ETA 00:00
+[download] 100% of    4.74MiB in 00:00:00 at 11.65MiB/s  
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a
+
+[download]   0.0% of    2.15MiB at  816.65KiB/s ETA 00:02
+[download]   0.1% of    2.15MiB at    1.10MiB/s ETA 00:01
+[download]   0.3% of    2.15MiB at    1.82MiB/s ETA 00:01
+[download]   0.7% of    2.15MiB at    3.02MiB/s ETA 00:00
+[download]   1.4% of    2.15MiB at    5.36MiB/s ETA 00:00
+[download]   2.9% of    2.15MiB at    9.49MiB/s ETA 00:00
+[download]   5.8% of    2.15MiB at   16.87MiB/s ETA 00:00
+[download]  11.6% of    2.15MiB at   28.06MiB/s ETA 00:00
+[download]  23.2% of    2.15MiB at   47.67MiB/s ETA 00:00
+[download]  46.5% of    2.15MiB at   70.74MiB/s ETA 00:00
+[download]  92.9% of    2.15MiB at   95.41MiB/s ETA 00:00
+[download] 100.0% of    2.15MiB at   91.84MiB/s ETA 00:00
+[download] 100% of    2.15MiB in 00:00:00 at 56.57MiB/s  
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://b23.tv/w7BIfu9
+[generic] w7BIfu9: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=ad.tianma.tm-recommendation-card.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=2f31260b-9782-4860-ac3b-9b0e8beedb23&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272118&unique_k=w7BIfu9&up_id=434378423
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Sc411e7rC/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...Ifu9&up_id=434378423
+[BiliBili] 1Sc411e7rC: Downloading webpage
+[BiliBili] BV1Sc411e7rC: Extracting videos in anthology
+[BiliBili] 284215785: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧, 4K 超清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Sc411e7rC_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4
+
+[download]   0.0% of    4.74MiB at  630.63KiB/s ETA 00:07
+[download]   0.1% of    4.74MiB at    1.14MiB/s ETA 00:04
+[download]   0.1% of    4.74MiB at    1.99MiB/s ETA 00:02
+[download]   0.3% of    4.74MiB at    3.14MiB/s ETA 00:01
+[download]   0.6% of    4.74MiB at    5.55MiB/s ETA 00:00
+[download]   1.3% of    4.74MiB at    1.33MiB/s ETA 00:03
+[download]   2.6% of    4.74MiB at    1.14MiB/s ETA 00:04
+[download]   5.2% of    4.74MiB at    1.07MiB/s ETA 00:04
+[download]  10.5% of    4.74MiB at    1.03MiB/s ETA 00:04
+[download]  21.1% of    4.74MiB at  973.87KiB/s ETA 00:03
+[download]  39.6% of    4.74MiB at 1001.31KiB/s ETA 00:02
+[download]  60.9% of    4.74MiB at 1014.95KiB/s ETA 00:01
+[download]  82.3% of    4.74MiB at 1021.12KiB/s ETA 00:00
+[download] 100.0% of    4.74MiB at    1.04MiB/s ETA 00:00
+[download] 100% of    4.74MiB in 00:00:04 at 1.02MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a
+
+[download]   0.0% of    2.15MiB at  Unknown B/s ETA Unknown
+[download]   0.1% of    2.15MiB at    2.05MiB/s ETA 00:01  
+[download]   0.3% of    2.15MiB at    3.24MiB/s ETA 00:00
+[download]   0.7% of    2.15MiB at    1.01MiB/s ETA 00:02
+[download]   1.4% of    2.15MiB at    1.88MiB/s ETA 00:01
+[download]   2.9% of    2.15MiB at    3.62MiB/s ETA 00:00
+[download]   5.8% of    2.15MiB at    1.60MiB/s ETA 00:01
+[download]  11.6% of    2.15MiB at    1.24MiB/s ETA 00:01
+[download]  23.2% of    2.15MiB at    1.11MiB/s ETA 00:01
+[download]  46.5% of    2.15MiB at    1.05MiB/s ETA 00:01
+[download]  92.9% of    2.15MiB at    1.06MiB/s ETA 00:00
+[download] 100.0% of    2.15MiB at    1.14MiB/s ETA 00:00
+[download] 100% of    2.15MiB in 00:00:01 at 1.13MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/【膝盖疼改善】如何练和吃，全面解析！.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:09:06] "POST / HTTP/1.1" 200 1834
+[18/Feb/2024 16:09:07] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%BD%93%E4%BD%A0%E5%8F%91%E4%BA%86%E5%8C%85%E5%90%AB%E8%BF%99%E4%BA%9B%E7%9A%84%E5%8A%A8%E6%80%81%EF%BC%8C%E4%BD%A0%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%9C%A8%E4%BA%92%E8%81%94%E7%BD%91%E8%A3%B8%E5%A5%94%E4%BA%86%E3%80%82%E3%80%90%E9%89%9D%E7%8C%AB%E6%9D%82%E8%B0%88%E2%A7%B8%E9%89%9D%E7%8C%AB%E7%9F%A5%E6%A4%8D%E3%80%91.mp4 HTTP/1.1" 301 0
+[generic] Extracting URL: https://b23.tv/g2ClDuu
+[generic] g2ClDuu: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Jk4y1S7H7/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=3d7ced37-5b93-48cd-b456-14146b317d83&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272433&unique_k=g2ClDuu&up_id=329654140
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Jk4y1S7H7/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...lDuu&up_id=329654140
+[BiliBili] 1Jk4y1S7H7: Downloading webpage
+[BiliBili] BV1Jk4y1S7H7: Extracting videos in anthology
+[BiliBili] 751815732: Extracting chapters
+[BiliBili] Format(s) 1080P 高码率, 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Jk4y1S7H7_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f100110.mp4
+
+[download]   0.0% of   13.33MiB at  855.98KiB/s ETA 00:16
+[download]   0.0% of   13.33MiB at  400.26KiB/s ETA 00:34
+[download]   0.1% of   13.33MiB at  830.48KiB/s ETA 00:16
+[download]   0.1% of   13.33MiB at  830.74KiB/s ETA 00:16
+[download]   0.2% of   13.33MiB at    1.56MiB/s ETA 00:08
+[download]   0.5% of   13.33MiB at    1.34MiB/s ETA 00:09
+[download]   0.9% of   13.33MiB at    1.12MiB/s ETA 00:11
+[download]   1.9% of   13.33MiB at    1.07MiB/s ETA 00:12
+[download]   3.7% of   13.33MiB at    1.04MiB/s ETA 00:12
+[download]   7.5% of   13.33MiB at    1.02MiB/s ETA 00:12
+[download]  15.0% of   13.33MiB at    1.01MiB/s ETA 00:11
+[download]  22.5% of   13.33MiB at    1.01MiB/s ETA 00:10
+[download]  30.1% of   13.33MiB at    1.01MiB/s ETA 00:09
+[download]  37.6% of   13.33MiB at    1.01MiB/s ETA 00:08
+[download]  45.2% of   13.33MiB at    1.01MiB/s ETA 00:07
+[download]  52.9% of   13.33MiB at    1.01MiB/s ETA 00:06
+[download]  60.5% of   13.33MiB at    1.01MiB/s ETA 00:05
+[download]  67.7% of   13.33MiB at    1.01MiB/s ETA 00:04
+[download]  75.4% of   13.33MiB at    1.01MiB/s ETA 00:03
+[download]  83.1% of   13.33MiB at    1.00MiB/s ETA 00:02
+[download]  90.3% of   13.33MiB at    1.01MiB/s ETA 00:01
+[download]  98.1% of   13.33MiB at    1.01MiB/s ETA 00:00
+[download] 100.0% of   13.33MiB at    1.02MiB/s ETA 00:00
+[download] 100% of   13.33MiB in 00:00:13 at 1.02MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f30280.m4a
+
+[download]   0.0% of   21.14MiB at  867.13KiB/s ETA 00:25
+[download]   0.0% of   21.14MiB at    1.16MiB/s ETA 00:18
+[download]   0.0% of   21.14MiB at    1.78MiB/s ETA 00:11
+[download]   0.1% of   21.14MiB at  973.97KiB/s ETA 00:22
+[download]   0.1% of   21.14MiB at    1.74MiB/s ETA 00:12
+[download]   0.3% of   21.14MiB at    3.22MiB/s ETA 00:06
+[download]   0.6% of   21.14MiB at    1.61MiB/s ETA 00:13
+[download]   1.2% of   21.14MiB at    1.24MiB/s ETA 00:16
+[download]   2.4% of   21.14MiB at    1.11MiB/s ETA 00:18
+[download]   4.7% of   21.14MiB at    1.01MiB/s ETA 00:19
+[download]   9.1% of   21.14MiB at    1.00MiB/s ETA 00:19
+[download]  13.8% of   21.14MiB at 1011.56KiB/s ETA 00:18
+[download]  18.4% of   21.14MiB at 1016.12KiB/s ETA 00:17
+[download]  23.1% of   21.14MiB at 1020.84KiB/s ETA 00:16
+[download]  27.9% of   21.14MiB at 1012.92KiB/s ETA 00:15
+[download]  32.4% of   21.14MiB at 1017.51KiB/s ETA 00:14
+[download]  37.3% of   21.14MiB at 1021.75KiB/s ETA 00:13
+[download]  42.1% of   21.14MiB at 1018.42KiB/s ETA 00:12
+[download]  46.7% of   21.14MiB at 1022.62KiB/s ETA 00:11
+[download]  51.6% of   21.14MiB at 1021.15KiB/s ETA 00:10
+[download]  56.3% of   21.14MiB at 1020.56KiB/s ETA 00:09
+[download]  61.0% of   21.14MiB at    1.00MiB/s ETA 00:08
+[download]  65.9% of   21.14MiB at    1.00MiB/s ETA 00:07
+[download]  70.6% of   21.14MiB at    1.00MiB/s ETA 00:06
+[download]  75.4% of   21.14MiB at 1019.77KiB/s ETA 00:05
+[download]  79.8% of   21.14MiB at 1020.22KiB/s ETA 00:04
+[download]  84.5% of   21.14MiB at 1020.71KiB/s ETA 00:03
+[download]  89.3% of   21.14MiB at 1021.43KiB/s ETA 00:02
+[download]  94.1% of   21.14MiB at 1022.02KiB/s ETA 00:01
+[download]  98.8% of   21.14MiB at 1019.65KiB/s ETA 00:00
+[download] 100.0% of   21.14MiB at    1.01MiB/s ETA 00:00
+[download] 100% of   21.14MiB in 00:00:21 at 1.00MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:10:22] "POST / HTTP/1.1" 200 1834
+[18/Feb/2024 16:10:25] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%BD%93%E4%BD%A0%E5%8F%91%E4%BA%86%E5%8C%85%E5%90%AB%E8%BF%99%E4%BA%9B%E7%9A%84%E5%8A%A8%E6%80%81%EF%BC%8C%E4%BD%A0%E5%B7%B2%E7%BB%8F%E6%98%AF%E5%9C%A8%E4%BA%92%E8%81%94%E7%BD%91%E8%A3%B8%E5%A5%94%E4%BA%86%E3%80%82%E3%80%90%E9%89%9D%E7%8C%AB%E6%9D%82%E8%B0%88%E2%A7%B8%E9%89%9D%E7%8C%AB%E7%9F%A5%E6%A4%8D%E3%80%91.mp4 HTTP/1.1" 200 15
+[generic] Extracting URL: https://b23.tv/g2ClDuu
+[generic] g2ClDuu: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1Jk4y1S7H7/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=3d7ced37-5b93-48cd-b456-14146b317d83&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272433&unique_k=g2ClDuu&up_id=329654140
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Jk4y1S7H7/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...lDuu&up_id=329654140
+[BiliBili] 1Jk4y1S7H7: Downloading webpage
+[BiliBili] BV1Jk4y1S7H7: Extracting videos in anthology
+[BiliBili] 751815732: Extracting chapters
+[BiliBili] Format(s) 1080P 高码率, 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Jk4y1S7H7_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f100110.mp4
+
+[download]   0.0% of   13.33MiB at  777.01KiB/s ETA 00:17
+[download]   0.0% of   13.33MiB at    1.36MiB/s ETA 00:09
+[download]   0.1% of   13.33MiB at    2.30MiB/s ETA 00:05
+[download]   0.1% of   13.33MiB at  156.28KiB/s ETA 01:27
+[download]   0.2% of   13.33MiB at  243.08KiB/s ETA 00:56
+[download]   0.5% of   13.33MiB at  175.54KiB/s ETA 01:17
+[download]   0.9% of   13.33MiB at  262.23KiB/s ETA 00:51
+[download]   1.9% of   13.33MiB at  383.90KiB/s ETA 00:34
+[download]   3.7% of   13.33MiB at  607.86KiB/s ETA 00:21
+[download]   7.5% of   13.33MiB at 1011.54KiB/s ETA 00:12
+[download]  15.0% of   13.33MiB at    1.69MiB/s ETA 00:06
+[download]  30.0% of   13.33MiB at    2.95MiB/s ETA 00:03
+[download]  60.0% of   13.33MiB at    4.46MiB/s ETA 00:01
+[download]  90.0% of   13.33MiB at    1.75MiB/s ETA 00:00
+[download] 100.0% of   13.33MiB at    1.51MiB/s ETA 00:00
+[download] 100% of   13.33MiB in 00:00:09 at 1.35MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f30280.m4a
+
+[download]   0.0% of   21.14MiB at    3.76KiB/s ETA 01:35:54
+[download]   0.0% of   21.14MiB at   11.25KiB/s ETA 32:04   
+[download]   0.0% of   21.14MiB at   26.16KiB/s ETA 13:47
+[download]   0.1% of   21.14MiB at   55.80KiB/s ETA 06:27
+[download]   0.1% of   21.14MiB at   77.17KiB/s ETA 04:40
+[download]   0.3% of   21.14MiB at  104.16KiB/s ETA 03:27
+[download]   0.6% of   21.14MiB at  164.62KiB/s ETA 02:10
+[download]   1.2% of   21.14MiB at  268.13KiB/s ETA 01:19
+[download]   2.4% of   21.14MiB at  460.09KiB/s ETA 00:45
+[download]   4.7% of   21.14MiB at  788.79KiB/s ETA 00:26
+[download]   9.5% of   21.14MiB at    1.37MiB/s ETA 00:14
+[download]  18.9% of   21.14MiB at    2.44MiB/s ETA 00:07
+[download]  37.8% of   21.14MiB at    2.02MiB/s ETA 00:06
+[download]  47.3% of   21.14MiB at    2.33MiB/s ETA 00:04
+[download]  66.2% of   21.14MiB at    1.38MiB/s ETA 00:05
+[download]  75.7% of   21.14MiB at    1.22MiB/s ETA 00:04
+[download]  80.4% of   21.14MiB at    1.17MiB/s ETA 00:03
+[download]  83.9% of   21.14MiB at    1.14MiB/s ETA 00:02
+[download]  87.1% of   21.14MiB at    1.11MiB/s ETA 00:02
+[download]  90.4% of   21.14MiB at    1.08MiB/s ETA 00:01
+[download]  93.4% of   21.14MiB at    1.06MiB/s ETA 00:01
+[download]  96.5% of   21.14MiB at    1.04MiB/s ETA 00:00
+[download]  99.8% of   21.14MiB at    1.03MiB/s ETA 00:00
+[download] 100.0% of   21.14MiB at    1.03MiB/s ETA 00:00
+[download] 100% of   21.14MiB in 00:00:21 at 1006.89KiB/s
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/当你发了包含这些的动态，你已经是在互联网裸奔了。【鉝猫杂谈⧸鉝猫知植】.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:11:06] "POST / HTTP/1.1" 200 1753
+[18/Feb/2024 16:11:07] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E4%B8%AD%E5%9B%BD%E8%B4%A8%E6%9C%B4%E7%9A%84%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E5%8A%A8%E7%94%BB%EF%BC%8C%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%88%90%E4%BA%86%E5%87%A0%E4%BA%BF%E6%92%AD%E6%94%BE%E7%9A%84%E6%B5%81%E9%87%8F%E5%AF%86%E7%A0%81.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:11:11] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E4%B8%AD%E5%9B%BD%E8%B4%A8%E6%9C%B4%E7%9A%84%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%E5%8A%A8%E7%94%BB%EF%BC%8C%E5%9C%A8%E6%B5%B7%E5%A4%96%E6%88%90%E4%BA%86%E5%87%A0%E4%BA%BF%E6%92%AD%E6%94%BE%E7%9A%84%E6%B5%81%E9%87%8F%E5%AF%86%E7%A0%81.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:11:40] "GET / HTTP/1.1" 200 1200
+[18/Feb/2024 16:11:43,771] - Broken pipe from ('111.181.13.106', 17948)
+[18/Feb/2024 16:11:43,777] - Broken pipe from ('111.181.13.106', 17876)
+[18/Feb/2024 16:11:56,051] - Broken pipe from ('111.181.13.106', 18043)
+[18/Feb/2024 16:11:56,067] - Broken pipe from ('111.181.13.106', 18042)
+[18/Feb/2024 16:13:35] "POST / HTTP/1.1" 200 1699
+[18/Feb/2024 16:13:36] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:13:40] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 6335509
+[18/Feb/2024 16:14:07,554] - Broken pipe from ('111.181.13.106', 18063)
+[generic] Extracting URL: https://b23.tv/EAU3wbY
+[generic] EAU3wbY: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1eu4m1P72L/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=cjqyM7MGcsin4MjAC%2BBA1g%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e694057d-0ae5-45b9-acbd-d4906e39ba60&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1708272415&unique_k=EAU3wbY&up_id=96575424
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1eu4m1P72L/?buvid=XYF45F4FF0AB97B6A494895E5635639168726&from_spm...U3wbY&up_id=96575424
+[BiliBili] 1eu4m1P72L: Downloading webpage
+[BiliBili] BV1eu4m1P72L: Extracting videos in anthology
+[BiliBili] 1300591246: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1eu4m1P72L_p1: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/中国质朴的安全教育动画，在海外成了几亿播放的流量密码.f100110.mp4
+
+[download]   0.0% of   10.01MiB at  Unknown B/s ETA 00:15
+[download]   0.0% of   10.01MiB at 1004.86KiB/s ETA 00:10
+[download]   0.1% of   10.01MiB at    1.60MiB/s ETA 00:06
+[download]   0.1% of   10.01MiB at    2.48MiB/s ETA 00:04
+[download]   0.3% of   10.01MiB at    4.06MiB/s ETA 00:02
+[download]   0.6% of   10.01MiB at    4.87MiB/s ETA 00:02
+[download]   1.2% of   10.01MiB at    7.75MiB/s ETA 00:01
+[download]   2.5% of   10.01MiB at   12.23MiB/s ETA 00:00
+[download]   5.0% of   10.01MiB at   20.65MiB/s ETA 00:00
+[download]  10.0% of   10.01MiB at   32.44MiB/s ETA 00:00
+[download]  20.0% of   10.01MiB at   48.63MiB/s ETA 00:00
+[download]  40.0% of   10.01MiB at   68.80MiB/s ETA 00:00
+[download]  79.9% of   10.01MiB at   82.83MiB/s ETA 00:00
+[download] 100.0% of   10.01MiB at    4.49MiB/s ETA 00:00
+[download] 100% of   10.01MiB in 00:00:02 at 4.39MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/中国质朴的安全教育动画，在海外成了几亿播放的流量密码.f30280.m4a
+
+[download]   0.0% of   17.50MiB at  Unknown B/s ETA Unknown
+[download]   0.0% of   17.50MiB at    1.50MiB/s ETA 00:11  
+[download]   0.0% of   17.50MiB at    2.44MiB/s ETA 00:07
+[download]   0.1% of   17.50MiB at    3.70MiB/s ETA 00:04
+[download]   0.2% of   17.50MiB at    5.99MiB/s ETA 00:02
+[download]   0.4% of   17.50MiB at    9.41MiB/s ETA 00:01
+[download]   0.7% of   17.50MiB at   15.54MiB/s ETA 00:01
+[download]   1.4% of   17.50MiB at   27.00MiB/s ETA 00:00
+[download]   2.9% of   17.50MiB at   46.11MiB/s ETA 00:00
+[download]   5.7% of   17.50MiB at   52.59MiB/s ETA 00:00
+[download]  11.4% of   17.50MiB at   51.46MiB/s ETA 00:00
+[download]  22.9% of   17.50MiB at   61.24MiB/s ETA 00:00
+[download]  45.7% of   17.50MiB at   51.89MiB/s ETA 00:00
+[download]  68.6% of   17.50MiB at    3.79MiB/s ETA 00:01
+[download]  80.0% of   17.50MiB at    2.27MiB/s ETA 00:01
+[download]  85.7% of   17.50MiB at    1.98MiB/s ETA 00:01
+[download]  89.7% of   17.50MiB at    1.83MiB/s ETA 00:00
+[download]  93.8% of   17.50MiB at    1.71MiB/s ETA 00:00
+[download]  97.6% of   17.50MiB at    1.61MiB/s ETA 00:00
+[download] 100.0% of   17.50MiB at    1.56MiB/s ETA 00:00
+[download] 100% of   17.50MiB in 00:00:11 at 1.55MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/中国质朴的安全教育动画，在海外成了几亿播放的流量密码.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/中国质朴的安全教育动画，在海外成了几亿播放的流量密码.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/中国质朴的安全教育动画，在海外成了几亿播放的流量密码.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/中国质朴的安全教育动画，在海外成了几亿播放的流量密码.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://m.bilibili.com/video/BV1hV411S7Xb
+[generic] BV1hV411S7Xb: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] 1hV411S7Xb: Downloading webpage
+[BiliBili] BV1hV411S7Xb: Extracting videos in anthology
+[BiliBili] 411839721: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1hV411S7Xb: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4
+
+[download]   0.0% of    5.08MiB at  Unknown B/s ETA Unknown
+[download]   0.1% of    5.08MiB at    1.33MiB/s ETA 00:03  
+[download]   0.1% of    5.08MiB at    2.37MiB/s ETA 00:02
+[download]   0.3% of    5.08MiB at    3.81MiB/s ETA 00:01
+[download]   0.6% of    5.08MiB at    6.52MiB/s ETA 00:00
+[download]   1.2% of    5.08MiB at    1.36MiB/s ETA 00:03
+[download]   2.4% of    5.08MiB at    1.15MiB/s ETA 00:04
+[download]   4.9% of    5.08MiB at    1.07MiB/s ETA 00:04
+[download]   9.8% of    5.08MiB at    1.04MiB/s ETA 00:04
+[download]  19.6% of    5.08MiB at    1.02MiB/s ETA 00:04
+[download]  39.3% of    5.08MiB at    1.01MiB/s ETA 00:03
+[download]  58.9% of    5.08MiB at    1.00MiB/s ETA 00:02
+[download]  78.5% of    5.08MiB at    1.01MiB/s ETA 00:01
+[download]  98.3% of    5.08MiB at    1.05MiB/s ETA 00:00
+[download] 100.0% of    5.08MiB at    1.06MiB/s ETA 00:00
+[download] 100% of    5.08MiB in 00:00:05 at 997.49KiB/s 
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a
+
+[download]   0.1% of  901.28KiB at  982.96KiB/s ETA 00:00
+[download]   0.3% of  901.28KiB at    1.18MiB/s ETA 00:00
+[download]   0.8% of  901.28KiB at    1.83MiB/s ETA 00:00
+[download]   1.7% of  901.28KiB at    1.04MiB/s ETA 00:00
+[download]   3.4% of  901.28KiB at    1.92MiB/s ETA 00:00
+[download]   7.0% of  901.28KiB at    3.61MiB/s ETA 00:00
+[download]  14.1% of  901.28KiB at    1.63MiB/s ETA 00:00
+[download]  28.3% of  901.28KiB at    1.24MiB/s ETA 00:00
+[download]  56.7% of  901.28KiB at    1.11MiB/s ETA 00:00
+[download] 100.0% of  901.28KiB at    1.38MiB/s ETA 00:00
+[download] 100% of  901.28KiB in 00:00:00 at 1.30MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:17:10] "POST / HTTP/1.1" 200 1699
+[18/Feb/2024 16:17:15] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.0" 200 15
+[18/Feb/2024 16:17:22] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:17:22] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.0" 200 15
+[18/Feb/2024 16:17:26,063] - Broken pipe from ('111.181.13.106', 17873)
+Not Found: /favicon.ico
+[18/Feb/2024 16:17:26] "GET /favicon.ico HTTP/1.1" 404 2327
+[18/Feb/2024 16:18:05] "POST / HTTP/1.1" 200 1699
+[generic] Extracting URL: https://m.bilibili.com/video/BV1hV411S7Xb
+[generic] BV1hV411S7Xb: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] 1hV411S7Xb: Downloading webpage
+[BiliBili] BV1hV411S7Xb: Extracting videos in anthology
+[BiliBili] 411839721: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1hV411S7Xb: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4
+
+[download]   0.0% of    5.08MiB at  836.19KiB/s ETA 00:06
+[download]   0.1% of    5.08MiB at    1.39MiB/s ETA 00:03
+[download]   0.1% of    5.08MiB at    2.42MiB/s ETA 00:02
+[download]   0.3% of    5.08MiB at    3.84MiB/s ETA 00:01
+[download]   0.6% of    5.08MiB at    6.48MiB/s ETA 00:00
+[download]   1.2% of    5.08MiB at    1.39MiB/s ETA 00:03
+[download]   2.4% of    5.08MiB at    1.16MiB/s ETA 00:04
+[download]   4.9% of    5.08MiB at    1.07MiB/s ETA 00:04
+[download]   9.8% of    5.08MiB at    1.04MiB/s ETA 00:04
+[download]  19.6% of    5.08MiB at    1.01MiB/s ETA 00:04
+[download]  38.9% of    5.08MiB at    1.02MiB/s ETA 00:03
+[download]  59.2% of    5.08MiB at    1.00MiB/s ETA 00:02
+[download]  78.3% of    5.08MiB at    1.01MiB/s ETA 00:01
+[download]  98.8% of    5.08MiB at    1.05MiB/s ETA 00:00
+[download] 100.0% of    5.08MiB at    1.06MiB/s ETA 00:00
+[download] 100% of    5.08MiB in 00:00:04 at 1.03MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a
+
+[download]   0.1% of  901.28KiB at  995.80KiB/s ETA 00:00
+[download]   0.3% of  901.28KiB at    1.76MiB/s ETA 00:00
+[download]   0.8% of  901.28KiB at    2.73MiB/s ETA 00:00
+[download]   1.7% of  901.28KiB at    4.05MiB/s ETA 00:00
+[download]   3.4% of  901.28KiB at    6.69MiB/s ETA 00:00
+[download]   7.0% of  901.28KiB at    1.34MiB/s ETA 00:00
+[download]  14.1% of  901.28KiB at    1.15MiB/s ETA 00:00
+[download]  28.3% of  901.28KiB at    1.07MiB/s ETA 00:00
+[download]  56.7% of  901.28KiB at    1.03MiB/s ETA 00:00
+[download] 100.0% of  901.28KiB at    1.44MiB/s ETA 00:00
+[download] 100% of  901.28KiB in 00:00:00 at 1.41MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://m.bilibili.com/video/BV1hV411S7Xb
+[generic] BV1hV411S7Xb: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] 1hV411S7Xb: Downloading webpage
+[BiliBili] BV1hV411S7Xb: Extracting videos in anthology
+[BiliBili] 411839721: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1hV411S7Xb: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4
+
+[download]   0.0% of    5.08MiB at  878.39KiB/s ETA 00:06
+[download]   0.1% of    5.08MiB at    1.37MiB/s ETA 00:03
+[download]   0.1% of    5.08MiB at    2.26MiB/s ETA 00:02
+[download]   0.3% of    5.08MiB at    1.00MiB/s ETA 00:05
+[download]   0.6% of    5.08MiB at    1.92MiB/s ETA 00:02
+[download]   1.2% of    5.08MiB at    3.70MiB/s ETA 00:01
+[download]   2.4% of    5.08MiB at    1.59MiB/s ETA 00:03
+[download]   4.9% of    5.08MiB at    1.24MiB/s ETA 00:03
+[download]   9.8% of    5.08MiB at    1.10MiB/s ETA 00:04
+[download]  19.6% of    5.08MiB at    1.05MiB/s ETA 00:03
+[download]  39.3% of    5.08MiB at  943.59KiB/s ETA 00:03
+[download]  55.5% of    5.08MiB at  961.79KiB/s ETA 00:02
+[download]  74.9% of    5.08MiB at  974.94KiB/s ETA 00:01
+[download]  94.3% of    5.08MiB at  983.71KiB/s ETA 00:00
+[download] 100.0% of    5.08MiB at    1.01MiB/s ETA 00:00
+[download] 100% of    5.08MiB in 00:00:05 at 1023.40KiB/s
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a
+
+[download]   0.1% of  901.28KiB at  991.09KiB/s ETA 00:00
+[download]   0.3% of  901.28KiB at    1.72MiB/s ETA 00:00
+[download]   0.8% of  901.28KiB at    2.81MiB/s ETA 00:00
+[download]   1.7% of  901.28KiB at    3.92MiB/s ETA 00:00
+[download]   3.4% of  901.28KiB at    6.77MiB/s ETA 00:00
+[download]   7.0% of  901.28KiB at    1.38MiB/s ETA 00:00
+[download]  14.1% of  901.28KiB at    1.16MiB/s ETA 00:00
+[download]  28.3% of  901.28KiB at    1.07MiB/s ETA 00:00
+[download]  56.7% of  901.28KiB at    1.04MiB/s ETA 00:00
+[download] 100.0% of  901.28KiB at    1.45MiB/s ETA 00:00
+[download] 100% of  901.28KiB in 00:00:00 at 1.42MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:18:27] "POST / HTTP/1.1" 200 1699
+[18/Feb/2024 16:18:34] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 6335509
+[18/Feb/2024 16:18:42,102] - Broken pipe from ('111.181.13.106', 18015)
+[18/Feb/2024 16:18:42,102] - Broken pipe from ('111.181.13.106', 18056)
+[18/Feb/2024 16:19:09,156] - Broken pipe from ('111.181.13.106', 17899)
+[18/Feb/2024 16:20:03] "POST / HTTP/1.1" 200 1699
+[18/Feb/2024 16:20:05] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:20:10] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:20:28,811] - Broken pipe from ('111.181.13.106', 17853)
+Not Found: /favicon.ico
+[18/Feb/2024 16:29:45] "GET /favicon.ico HTTP/1.1" 404 2327
+Not Found: /favicon.ico
+[18/Feb/2024 16:29:45] "GET /favicon.ico HTTP/1.1" 404 2327
+[18/Feb/2024 16:29:47] "GET / HTTP/1.1" 200 1200
+Not Found: /favicon.ico
+[18/Feb/2024 16:29:48] "GET /favicon.ico HTTP/1.1" 404 2327
+[generic] Extracting URL: https://m.bilibili.com/video/BV1hV411S7Xb
+[generic] BV1hV411S7Xb: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] 1hV411S7Xb: Downloading webpage
+[BiliBili] BV1hV411S7Xb: Extracting videos in anthology
+[BiliBili] 411839721: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1hV411S7Xb: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4
+
+[download]   0.0% of    5.08MiB at  845.80KiB/s ETA 00:06
+[download]   0.1% of    5.08MiB at    1.43MiB/s ETA 00:03
+[download]   0.1% of    5.08MiB at    2.50MiB/s ETA 00:02
+[download]   0.3% of    5.08MiB at  352.20KiB/s ETA 00:14
+[download]   0.6% of    5.08MiB at  708.14KiB/s ETA 00:07
+[download]   1.2% of    5.08MiB at  274.08KiB/s ETA 00:18
+[download]   2.4% of    5.08MiB at  345.29KiB/s ETA 00:14
+[download]   4.9% of    5.08MiB at  434.07KiB/s ETA 00:11
+[download]   9.8% of    5.08MiB at  742.48KiB/s ETA 00:06
+[download]  19.6% of    5.08MiB at    1.04MiB/s ETA 00:03
+[download]  39.3% of    5.08MiB at    1.80MiB/s ETA 00:01
+[download]  78.6% of    5.08MiB at    2.93MiB/s ETA 00:00
+[download] 100.0% of    5.08MiB at    3.59MiB/s ETA 00:00
+[download] 100% of    5.08MiB in 00:00:02 at 1.83MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a
+
+[download]   0.1% of  901.28KiB at  Unknown B/s ETA Unknown
+[download]   0.3% of  901.28KiB at    1.99MiB/s ETA 00:00  
+[download]   0.8% of  901.28KiB at    3.19MiB/s ETA 00:00
+[download]   1.7% of  901.28KiB at    4.72MiB/s ETA 00:00
+[download]   3.4% of  901.28KiB at    7.68MiB/s ETA 00:00
+[download]   7.0% of  901.28KiB at    1.33MiB/s ETA 00:00
+[download]  14.1% of  901.28KiB at    1.14MiB/s ETA 00:00
+[download]  28.3% of  901.28KiB at    1.07MiB/s ETA 00:00
+[download]  56.7% of  901.28KiB at    1.04MiB/s ETA 00:00
+[download] 100.0% of  901.28KiB at    1.45MiB/s ETA 00:00
+[download] 100% of  901.28KiB in 00:00:00 at 1.40MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[generic] Extracting URL: https://m.bilibili.com/video/BV1hV411S7Xb
+[generic] BV1hV411S7Xb: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] 1hV411S7Xb: Downloading webpage
+[BiliBili] BV1hV411S7Xb: Extracting videos in anthology
+[BiliBili] 411839721: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1hV411S7Xb: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4
+
+[download]   0.0% of    5.08MiB at  579.96KiB/s ETA 00:09
+[download]   0.1% of    5.08MiB at 1016.14KiB/s ETA 00:05
+[download]   0.1% of    5.08MiB at    1.63MiB/s ETA 00:03
+[download]   0.3% of    5.08MiB at    2.46MiB/s ETA 00:02
+[download]   0.6% of    5.08MiB at    4.18MiB/s ETA 00:01
+[download]   1.2% of    5.08MiB at    1.36MiB/s ETA 00:03
+[download]   2.4% of    5.08MiB at    1.15MiB/s ETA 00:04
+[download]   4.9% of    5.08MiB at    1.07MiB/s ETA 00:04
+[download]   9.8% of    5.08MiB at    1.03MiB/s ETA 00:04
+[download]  19.6% of    5.08MiB at    1.02MiB/s ETA 00:04
+[download]  39.3% of    5.08MiB at 1007.07KiB/s ETA 00:03
+[download]  58.0% of    5.08MiB at 1018.58KiB/s ETA 00:02
+[download]  78.1% of    5.08MiB at    1.00MiB/s ETA 00:01
+[download]  98.1% of    5.08MiB at    1.03MiB/s ETA 00:00
+[download] 100.0% of    5.08MiB at    1.05MiB/s ETA 00:00
+[download] 100% of    5.08MiB in 00:00:04 at 1.04MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a
+
+[download]   0.1% of  901.28KiB at  705.87KiB/s ETA 00:01
+[download]   0.3% of  901.28KiB at    1.17MiB/s ETA 00:00
+[download]   0.8% of  901.28KiB at    1.86MiB/s ETA 00:00
+[download]   1.7% of  901.28KiB at  979.25KiB/s ETA 00:00
+[download]   3.4% of  901.28KiB at    1.75MiB/s ETA 00:00
+[download]   7.0% of  901.28KiB at    3.17MiB/s ETA 00:00
+[download]  14.1% of  901.28KiB at    1.61MiB/s ETA 00:00
+[download]  28.3% of  901.28KiB at    1.23MiB/s ETA 00:00
+[download]  56.7% of  901.28KiB at    1.11MiB/s ETA 00:00
+[download] 100.0% of  901.28KiB at    1.38MiB/s ETA 00:00
+[download] 100% of  901.28KiB in 00:00:00 at 1.35MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[18/Feb/2024 16:30:16] "POST / HTTP/1.1" 200 1699
+[18/Feb/2024 16:30:17] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:30:17] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 301 0
+[18/Feb/2024 16:30:18] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:30:20] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 15
+[18/Feb/2024 16:30:20] "HEAD /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 0
+[18/Feb/2024 16:30:23] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E5%AE%A2%E6%88%B7%E8%AF%B4%E8%A2%AB%E7%94%B5%E4%BA%86%E5%8D%81%E5%87%A0%E5%B9%B4%EF%BC%8C%E6%B2%A1%E6%83%B3%E5%88%B0%E8%A7%A3%E5%86%B3%E5%A6%82%E6%AD%A4%E7%AE%80%E5%8D%95%E3%80%82.mp4 HTTP/1.1" 200 15
+Not Found: /favicon.ico
+[18/Feb/2024 16:30:55] "GET /favicon.ico HTTP/1.1" 404 2327
+Not Found: /favicon.ico
+[18/Feb/2024 16:30:55] "GET /favicon.ico HTTP/1.1" 404 2327
+Not Found: /favicon.ico
+[18/Feb/2024 16:30:55] "GET /favicon.ico HTTP/1.1" 404 2327
+Not Found: /favicon.ico
+[18/Feb/2024 16:30:55] "GET /favicon.ico HTTP/1.1" 404 2327
+[18/Feb/2024 16:31:06] "GET / HTTP/1.0" 200 1200
+Not Found: /favicon.ico
+[18/Feb/2024 16:31:06] "GET /favicon.ico HTTP/1.0" 404 2325
+Forbidden (Origin checking failed - http://dl.wenruxiaow.link does not match any trusted origins.): /
+[18/Feb/2024 16:31:13] "POST / HTTP/1.0" 403 2572
+[18/Feb/2024 16:31:32] "GET / HTTP/1.0" 200 1200
+[18/Feb/2024 16:31:33,030] - Broken pipe from ('111.181.13.106', 17853)
+[18/Feb/2024 16:31:33,031] - Broken pipe from ('111.181.13.106', 17951)
+[18/Feb/2024 16:31:33,031] - Broken pipe from ('111.181.13.106', 17859)
+Forbidden (Origin checking failed - http://dl.wenruxiaow.link does not match any trusted origins.): /
+[18/Feb/2024 16:31:36] "POST / HTTP/1.0" 403 2572
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+[generic] Extracting URL: https://m.bilibili.com/video/BV1hV411S7Xb
+[generic] BV1hV411S7Xb: Downloading webpage
+[redirect] Following redirect to https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1hV411S7Xb/
+[BiliBili] 1hV411S7Xb: Downloading webpage
+[BiliBili] BV1hV411S7Xb: Extracting videos in anthology
+[BiliBili] 411839721: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1hV411S7Xb: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4
+
+[download]   0.0% of    5.08MiB at  375.30KiB/s ETA 00:14
+[download]   0.1% of    5.08MiB at  728.14KiB/s ETA 00:07
+[download]   0.1% of    5.08MiB at    1.29MiB/s ETA 00:03
+[download]   0.3% of    5.08MiB at    1.03MiB/s ETA 00:04
+[download]   0.6% of    5.08MiB at    1.91MiB/s ETA 00:02
+[download]   1.2% of    5.08MiB at    3.57MiB/s ETA 00:01
+[download]   2.4% of    5.08MiB at    1.57MiB/s ETA 00:03
+[download]   4.9% of    5.08MiB at    1.24MiB/s ETA 00:03
+[download]   9.8% of    5.08MiB at    1.11MiB/s ETA 00:04
+[download]  19.6% of    5.08MiB at    1.05MiB/s ETA 00:03
+[download]  39.3% of    5.08MiB at    1.02MiB/s ETA 00:03
+[download]  58.9% of    5.08MiB at    1.01MiB/s ETA 00:02
+[download]  78.0% of    5.08MiB at 1011.06KiB/s ETA 00:01
+[download]  96.4% of    5.08MiB at    1.01MiB/s ETA 00:00
+[download] 100.0% of    5.08MiB at    1.05MiB/s ETA 00:00
+[download] 100% of    5.08MiB in 00:00:04 at 1.02MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a
+
+[download]   0.1% of  901.28KiB at  711.50KiB/s ETA 00:01
+[download]   0.3% of  901.28KiB at    1.32MiB/s ETA 00:00
+[download]   0.8% of  901.28KiB at    2.23MiB/s ETA 00:00
+[download]   1.7% of  901.28KiB at   85.38KiB/s ETA 00:10
+[download]   3.4% of  901.28KiB at  110.12KiB/s ETA 00:07
+[download]   7.0% of  901.28KiB at  165.34KiB/s ETA 00:05
+[download]  14.1% of  901.28KiB at  217.95KiB/s ETA 00:03
+[download]  28.3% of  901.28KiB at  339.19KiB/s ETA 00:01
+[download]  56.7% of  901.28KiB at  555.77KiB/s ETA 00:00
+[download] 100.0% of  901.28KiB at  855.96KiB/s ETA 00:00
+[download] 100% of  901.28KiB in 00:00:02 at 438.04KiB/s 
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/客户说被电了十几年，没想到解决如此简单。.mp4
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 16:41:54
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 16:41:58
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 16:42:07
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 16:43:36
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[19/Feb/2024 02:27:30] "GET / HTTP/1.1" 200 1200
+Not Found: /favicon.ico
+[19/Feb/2024 02:27:31] "GET /favicon.ico HTTP/1.1" 404 2327
+[19/Feb/2024 02:27:51] "GET / HTTP/1.1" 200 1200
+Not Found: /apple-touch-icon-120x120-precomposed.png
+[19/Feb/2024 02:27:52] "GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 2414
+Not Found: /apple-touch-icon-120x120.png
+[19/Feb/2024 02:27:53] "GET /apple-touch-icon-120x120.png HTTP/1.1" 404 2378
+Not Found: /apple-touch-icon-precomposed.png
+[19/Feb/2024 02:27:54] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2390
+Not Found: /apple-touch-icon.png
+[19/Feb/2024 02:27:54] "GET /apple-touch-icon.png HTTP/1.1" 404 2354
+Not Found: /favicon.ico
+[19/Feb/2024 02:27:55] "GET /favicon.ico HTTP/1.1" 404 2327
+Not Found: /apple-touch-icon-120x120-precomposed.png
+[19/Feb/2024 02:27:56] "GET /apple-touch-icon-120x120-precomposed.png HTTP/1.1" 404 2414
+Not Found: /apple-touch-icon-120x120.png
+[19/Feb/2024 02:27:57] "GET /apple-touch-icon-120x120.png HTTP/1.1" 404 2378
+Not Found: /apple-touch-icon-precomposed.png
+[19/Feb/2024 02:27:57] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2390
+Not Found: /apple-touch-icon.png
+[19/Feb/2024 02:27:58] "GET /apple-touch-icon.png HTTP/1.1" 404 2354
+Not Found: /favicon.ico
+[19/Feb/2024 02:27:59] "GET /favicon.ico HTTP/1.1" 404 2327
+[19/Feb/2024 02:28:04] "POST / HTTP/1.1" 200 1777
+[19/Feb/2024 02:28:04] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E6%B2%B3%E5%8D%9710%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AA%9C%E5%87%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E7%82%B8%E4%BC%A4%E8%BA%AB%E4%BA%A1%EF%BC%8C%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E6%8E%92%E6%9F%A5%E5%87%B6%E6%89%8B.mp4 HTTP/1.1" 301 0
+[19/Feb/2024 02:28:06] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E6%B2%B3%E5%8D%9710%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AA%9C%E5%87%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E7%82%B8%E4%BC%A4%E8%BA%AB%E4%BA%A1%EF%BC%8C%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E6%8E%92%E6%9F%A5%E5%87%B6%E6%89%8B.mp4 HTTP/1.1" 200 381158
+[19/Feb/2024 02:28:15] "GET / HTTP/1.1" 200 1200
+Not Found: /apple-touch-icon.png
+[19/Feb/2024 02:28:21] "GET /apple-touch-icon.png HTTP/1.1" 404 2354
+Not Found: /apple-touch-icon-precomposed.png
+[19/Feb/2024 02:28:21] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2390
+Not Found: /favicon.ico
+[19/Feb/2024 02:28:21] "GET /favicon.ico HTTP/1.1" 404 2327
+[19/Feb/2024 02:28:28,783] - Broken pipe from ('118.73.124.131', 13185)
+[19/Feb/2024 02:28:28,786] - Broken pipe from ('118.73.124.131', 13202)
+[19/Feb/2024 02:28:28,788] - Broken pipe from ('118.73.124.131', 13203)
+[19/Feb/2024 02:30:29] "GET / HTTP/1.1" 200 1200
+Not Found: /favicon.ico
+[19/Feb/2024 02:30:30] "GET /favicon.ico HTTP/1.1" 404 2327
+[19/Feb/2024 02:30:54] "POST / HTTP/1.1" 200 1777
+[19/Feb/2024 02:30:55] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E6%B2%B3%E5%8D%9710%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AA%9C%E5%87%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E7%82%B8%E4%BC%A4%E8%BA%AB%E4%BA%A1%EF%BC%8C%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E6%8E%92%E6%9F%A5%E5%87%B6%E6%89%8B.mp4 HTTP/1.1" 301 0
+[19/Feb/2024 02:30:56] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E6%B2%B3%E5%8D%9710%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AA%9C%E5%87%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E7%82%B8%E4%BC%A4%E8%BA%AB%E4%BA%A1%EF%BC%8C%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E6%8E%92%E6%9F%A5%E5%87%B6%E6%89%8B.mp4 HTTP/1.1" 200 381158
+Not Found: /apple-touch-icon.png
+[19/Feb/2024 02:31:27] "GET /apple-touch-icon.png HTTP/1.1" 404 2354
+Not Found: /favicon.ico
+[19/Feb/2024 02:31:27] "GET /favicon.ico HTTP/1.1" 404 2327
+Not Found: /apple-touch-icon-precomposed.png
+[19/Feb/2024 02:31:27] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 2390
+[19/Feb/2024 02:31:28] "GET / HTTP/1.1" 200 1200
+[19/Feb/2024 02:31:28,907] - Broken pipe from ('118.73.124.131', 12250)
+[19/Feb/2024 02:31:28,909] - Broken pipe from ('118.73.124.131', 12254)
+[19/Feb/2024 03:12:48] "GET / HTTP/1.1" 200 1200
+Not Found: /favicon.ico
+[19/Feb/2024 03:12:50] "GET /favicon.ico HTTP/1.1" 404 2327
+[19/Feb/2024 03:12:59] "POST / HTTP/1.1" 200 1777
+[19/Feb/2024 03:13:00] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E6%B2%B3%E5%8D%9710%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AA%9C%E5%87%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E7%82%B8%E4%BC%A4%E8%BA%AB%E4%BA%A1%EF%BC%8C%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E6%8E%92%E6%9F%A5%E5%87%B6%E6%89%8B.mp4 HTTP/1.1" 301 0
+[19/Feb/2024 03:13:01] "GET /download/?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E6%B2%B3%E5%8D%9710%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E7%AA%9C%E5%87%BA%E7%9A%84%E7%83%9F%E8%8A%B1%E7%82%B8%E4%BC%A4%E8%BA%AB%E4%BA%A1%EF%BC%8C%E5%AE%B6%E5%B1%9E%EF%BC%9A%E8%AD%A6%E6%96%B9%E6%AD%A3%E5%85%A8%E5%8A%9B%E6%8E%92%E6%9F%A5%E5%87%B6%E6%89%8B.mp4 HTTP/1.1" 200 381158
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 18, 2024 - 16:43:47
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Bz421d7CQ
+[BiliBili] 1Bz421d7CQ: Downloading webpage
+[BiliBili] BV1Bz421d7CQ: Extracting videos in anthology
+[BiliBili] 1350762369: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Bz421d7CQ: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f100110.mp4
+
+[download]   0.5% of  197.06KiB at  Unknown B/s ETA Unknown
+[download]   1.5% of  197.06KiB at    1.94MiB/s ETA 00:00  
+[download]   3.6% of  197.06KiB at    3.37MiB/s ETA 00:00
+[download]   7.6% of  197.06KiB at    5.31MiB/s ETA 00:00
+[download]  15.7% of  197.06KiB at    8.68MiB/s ETA 00:00
+[download]  32.0% of  197.06KiB at   12.05MiB/s ETA 00:00
+[download]  64.4% of  197.06KiB at   17.29MiB/s ETA 00:00
+[download] 100.0% of  197.06KiB at    1.04MiB/s ETA 00:00
+[download] 100% of  197.06KiB in 00:00:00 at 628.85KiB/s 
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f30280.m4a
+
+[download]   0.6% of  170.23KiB at  Unknown B/s ETA Unknown
+[download]   1.8% of  170.23KiB at    1.96MiB/s ETA 00:00  
+[download]   4.1% of  170.23KiB at    3.44MiB/s ETA 00:00
+[download]   8.8% of  170.23KiB at    5.66MiB/s ETA 00:00
+[download]  18.2% of  170.23KiB at    8.29MiB/s ETA 00:00
+[download]  37.0% of  170.23KiB at   13.16MiB/s ETA 00:00
+[download]  74.6% of  170.23KiB at   22.66MiB/s ETA 00:00
+[download] 100.0% of  170.23KiB at   26.57MiB/s ETA 00:00
+[download] 100% of  170.23KiB in 00:00:00 at 3.44MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Bz421d7CQ
+[BiliBili] 1Bz421d7CQ: Downloading webpage
+[BiliBili] BV1Bz421d7CQ: Extracting videos in anthology
+[BiliBili] 1350762369: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Bz421d7CQ: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f100110.mp4
+
+[download]   0.5% of  197.06KiB at  Unknown B/s ETA Unknown
+[download]   1.5% of  197.06KiB at    2.03MiB/s ETA 00:00  
+[download]   3.6% of  197.06KiB at    3.43MiB/s ETA 00:00
+[download]   7.6% of  197.06KiB at    2.02MiB/s ETA 00:00
+[download]  15.7% of  197.06KiB at    3.62MiB/s ETA 00:00
+[download]  32.0% of  197.06KiB at    6.73MiB/s ETA 00:00
+[download]  64.4% of  197.06KiB at   12.14MiB/s ETA 00:00
+[download] 100.0% of  197.06KiB at   17.07MiB/s ETA 00:00
+[download] 100% of  197.06KiB in 00:00:00 at 3.20MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f30280.m4a
+
+[download]   0.6% of  170.23KiB at  Unknown B/s ETA Unknown
+[download]   1.8% of  170.23KiB at    2.49MiB/s ETA 00:00  
+[download]   4.1% of  170.23KiB at    3.92MiB/s ETA 00:00
+[download]   8.8% of  170.23KiB at    6.18MiB/s ETA 00:00
+[download]  18.2% of  170.23KiB at    9.12MiB/s ETA 00:00
+[download]  37.0% of  170.23KiB at   15.25MiB/s ETA 00:00
+[download]  74.6% of  170.23KiB at   24.45MiB/s ETA 00:00
+[download] 100.0% of  170.23KiB at    1.08MiB/s ETA 00:00
+[download] 100% of  170.23KiB in 00:00:00 at 992.85KiB/s 
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f100110.mp4 (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f30280.m4a (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Bz421d7CQ
+[BiliBili] 1Bz421d7CQ: Downloading webpage
+[BiliBili] BV1Bz421d7CQ: Extracting videos in anthology
+[BiliBili] 1350762369: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Bz421d7CQ: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f100110.mp4
+
+[download]   0.5% of  197.06KiB at  Unknown B/s ETA Unknown
+[download]   1.5% of  197.06KiB at    1.92MiB/s ETA 00:00  
+[download]   3.6% of  197.06KiB at    3.27MiB/s ETA 00:00
+[download]   7.6% of  197.06KiB at    5.25MiB/s ETA 00:00
+[download]  15.7% of  197.06KiB at    8.49MiB/s ETA 00:00
+[download]  32.0% of  197.06KiB at   14.30MiB/s ETA 00:00
+[download]  64.4% of  197.06KiB at   18.56MiB/s ETA 00:00
+[download] 100.0% of  197.06KiB at   25.42MiB/s ETA 00:00
+[download] 100% of  197.06KiB in 00:00:00 at 2.73MiB/s   
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f30280.m4a
+
+[download]   0.6% of  170.23KiB at  Unknown B/s ETA Unknown
+[download]   1.8% of  170.23KiB at    2.17MiB/s ETA 00:00  
+[download]   4.1% of  170.23KiB at    3.42MiB/s ETA 00:00
+[download]   8.8% of  170.23KiB at    5.33MiB/s ETA 00:00
+[download]  18.2% of  170.23KiB at    8.35MiB/s ETA 00:00
+[download]  37.0% of  170.23KiB at    1.35MiB/s ETA 00:00
+[download]  74.6% of  170.23KiB at    2.61MiB/s ETA 00:00
+[download] 100.0% of  170.23KiB at    3.42MiB/s ETA 00:00
+[download] 100% of  170.23KiB in 00:00:00 at 785.41KiB/s 
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/河南10岁男孩被窜出的烟花炸伤身亡，家属：警方正全力排查凶手.mp4
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 19, 2024 - 04:53:27
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 19, 2024 - 04:54:30
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+/www/wwwroot/PyhtonP/dmp4/myapp/views.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 19, 2024 - 04:54:53
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Watching for file changes with StatReloader
+[19/Feb/2024 04:59:23] "GET / HTTP/1.0" 200 1200
+Not Found: /favicon.ico
+[19/Feb/2024 04:59:26] "GET /favicon.ico HTTP/1.0" 404 2325
+Forbidden (Origin checking failed - http://dl.wenruxiaow.link does not match any trusted origins.): /
+[19/Feb/2024 04:59:31] "POST / HTTP/1.0" 403 2572
+[19/Feb/2024 05:06:22] "GET / HTTP/1.0" 200 1200
+Forbidden (Origin checking failed - http://dl.wenruxiaow.link does not match any trusted origins.): /
+[19/Feb/2024 05:06:27] "POST / HTTP/1.0" 403 2572
+/www/wwwroot/PyhtonP/dmp4/myapp/settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 19, 2024 - 04:55:04
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Downloads 文件夹下的所有文件已成功删除。
+Downloads 文件夹下的所有文件已成功删除。
+Watching for file changes with StatReloader
+[19/Feb/2024 05:10:30] "GET / HTTP/1.0" 200 1200
+[19/Feb/2024 05:13:54] "GET / HTTP/1.1" 200 1200
+Not Found: /favicon.ico
+[19/Feb/2024 05:13:58] "GET /favicon.ico HTTP/1.1" 404 2327
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 19, 2024 - 05:06:48
+Django version 5.0.2, using settings 'myapp.settings'
+Starting development server at http://0.0.0.0:4455/
+Quit the server with CONTROL-C.
+
+Downloads 文件夹下的所有文件已成功删除。
+Downloads 文件夹下的所有文件已成功删除。
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+Downloads 文件夹下的所有文件已成功删除。
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+yt-dlp下载失败，尝试使用youtube-dl...
+[BiliBili] Extracting URL: https://www.bilibili.com/video/BV1Xx4y117Vp/?spm_id_from=333.1007.tianma.3-1-5.click
+[BiliBili] 1Xx4y117Vp: Downloading webpage
+[BiliBili] BV1Xx4y117Vp: Extracting videos in anthology
+[BiliBili] 1000482527: Extracting chapters
+[BiliBili] Format(s) 1080P 高清, 720P 高清, 1080P 60帧, 4K 超清 are missing; you have to login or become premium member to download them. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies
+[info] BV1Xx4y117Vp: Downloading 1 format(s): 100110+30280
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【艾说】全网首次，实地横评鹤岗2W、20W、200W豪宅.f100110.mp4
+
+[download]   0.0% of   33.25MiB at  291.70KiB/s ETA 01:57
+[download]   0.0% of   33.25MiB at  608.25KiB/s ETA 00:56
+[download]   0.0% of   33.25MiB at    1.10MiB/s ETA 00:30
+[download]   0.0% of   33.25MiB at    1.85MiB/s ETA 00:18
+[download]   0.1% of   33.25MiB at    3.27MiB/s ETA 00:10
+[download]   0.2% of   33.25MiB at    5.40MiB/s ETA 00:06
+[download]   0.4% of   33.25MiB at    9.07MiB/s ETA 00:03
+[download]   0.7% of   33.25MiB at   15.17MiB/s ETA 00:02
+[download]   1.5% of   33.25MiB at   26.87MiB/s ETA 00:01
+[download]   3.0% of   33.25MiB at   44.21MiB/s ETA 00:00
+[download]   6.0% of   33.25MiB at   64.70MiB/s ETA 00:00
+[download]  12.0% of   33.25MiB at   91.30MiB/s ETA 00:00
+[download]  24.1% of   33.25MiB at   94.35MiB/s ETA 00:00
+[download]  36.1% of   33.25MiB at    3.91MiB/s ETA 00:05
+[download]  42.1% of   33.25MiB at    2.39MiB/s ETA 00:08
+[download]  45.1% of   33.25MiB at    2.04MiB/s ETA 00:08
+[download]  47.1% of   33.25MiB at    1.89MiB/s ETA 00:09
+[download]  49.3% of   33.25MiB at    1.74MiB/s ETA 00:09
+[download]  51.2% of   33.25MiB at    1.65MiB/s ETA 00:09
+[download]  53.3% of   33.25MiB at    1.57MiB/s ETA 00:09
+[download]  55.5% of   33.25MiB at    1.49MiB/s ETA 00:09
+[download]  57.5% of   33.25MiB at    1.43MiB/s ETA 00:09
+[download]  59.6% of   33.25MiB at    1.37MiB/s ETA 00:09
+[download]  61.5% of   33.25MiB at    1.33MiB/s ETA 00:09
+[download]  63.4% of   33.25MiB at    1.29MiB/s ETA 00:09
+[download]  65.6% of   33.25MiB at    1.26MiB/s ETA 00:09
+[download]  67.9% of   33.25MiB at    1.23MiB/s ETA 00:08
+[download]  69.9% of   33.25MiB at    1.20MiB/s ETA 00:08
+[download]  72.1% of   33.25MiB at    1.17MiB/s ETA 00:07
+[download]  74.0% of   33.25MiB at    1.15MiB/s ETA 00:07
+[download]  76.1% of   33.25MiB at    1.12MiB/s ETA 00:07
+[download]  78.0% of   33.25MiB at    1.11MiB/s ETA 00:06
+[download]  80.0% of   33.25MiB at    1.09MiB/s ETA 00:06
+[download]  82.1% of   33.25MiB at    1.08MiB/s ETA 00:05
+[download]  84.4% of   33.25MiB at    1.05MiB/s ETA 00:04
+[download]  86.1% of   33.25MiB at    1.05MiB/s ETA 00:04
+[download]  88.5% of   33.25MiB at    1.03MiB/s ETA 00:03
+[download]  90.6% of   33.25MiB at    1.02MiB/s ETA 00:03
+[download]  92.8% of   33.25MiB at    1.01MiB/s ETA 00:02
+[download]  94.8% of   33.25MiB at    1.00MiB/s ETA 00:01
+[download]  96.9% of   33.25MiB at 1012.10KiB/s ETA 00:01
+[download]  98.8% of   33.25MiB at 1003.32KiB/s ETA 00:00
+[download] 100.0% of   33.25MiB at  998.98KiB/s ETA 00:00
+[download] 100% of   33.25MiB in 00:00:34 at 997.51KiB/s 
+[download] Destination: /www/wwwroot/PyhtonP/dmp4/downloads/【艾说】全网首次，实地横评鹤岗2W、20W、200W豪宅.f30280.m4a
+
+[download]   0.0% of   32.66MiB at  743.14KiB/s ETA 00:46
+[download]   0.0% of   32.66MiB at    1.27MiB/s ETA 00:25
+[download]   0.0% of   32.66MiB at    1.71MiB/s ETA 00:19
+[download]   0.0% of   32.66MiB at  989.32KiB/s ETA 00:33
+[download]   0.1% of   32.66MiB at    1.81MiB/s ETA 00:17
+[download]   0.2% of   32.66MiB at    3.44MiB/s ETA 00:09
+[download]   0.4% of   32.66MiB at    1.60MiB/s ETA 00:20
+[download]   0.8% of   32.66MiB at    1.23MiB/s ETA 00:26
+[download]   1.5% of   32.66MiB at    1.11MiB/s ETA 00:29
+[download]   3.1% of   32.66MiB at    1.05MiB/s ETA 00:30
+[download]   6.1% of   32.66MiB at    1.03MiB/s ETA 00:29
+[download]   9.2% of   32.66MiB at    1.02MiB/s ETA 00:29
+[download]  12.3% of   32.66MiB at    1.02MiB/s ETA 00:28
+[download]  15.3% of   32.66MiB at    1.01MiB/s ETA 00:27
+[download]  18.4% of   32.66MiB at    1.00MiB/s ETA 00:26
+[download]  21.4% of   32.66MiB at    1.01MiB/s ETA 00:25
+[download]  24.5% of   32.66MiB at    1.01MiB/s ETA 00:24
+[download]  27.6% of   32.66MiB at    1.00MiB/s ETA 00:23
+[download]  30.6% of   32.66MiB at    1.01MiB/s ETA 00:22
+[download]  33.7% of   32.66MiB at    1.00MiB/s ETA 00:21
+[download]  36.7% of   32.66MiB at    1.01MiB/s ETA 00:20
+[download]  39.9% of   32.66MiB at    1.01MiB/s ETA 00:19
+[download]  43.0% of   32.66MiB at    1.00MiB/s ETA 00:18
+[download]  46.0% of   32.66MiB at    1.00MiB/s ETA 00:17
+[download]  49.1% of   32.66MiB at    1.00MiB/s ETA 00:16
+[download]  52.1% of   32.66MiB at    1.00MiB/s ETA 00:15
+[download]  55.2% of   32.66MiB at    1.00MiB/s ETA 00:14
+[download]  58.3% of   32.66MiB at    1.01MiB/s ETA 00:13
+[download]  61.5% of   32.66MiB at    1.01MiB/s ETA 00:12
+[download]  64.6% of   32.66MiB at    1.00MiB/s ETA 00:11
+[download]  67.6% of   32.66MiB at    1.01MiB/s ETA 00:10
+[download]  70.7% of   32.66MiB at    1.00MiB/s ETA 00:09
+[download]  73.7% of   32.66MiB at    1.00MiB/s ETA 00:08
+[download]  76.7% of   32.66MiB at    1.01MiB/s ETA 00:07
+[download]  79.9% of   32.66MiB at    1.00MiB/s ETA 00:06
+[download]  83.0% of   32.66MiB at    1.00MiB/s ETA 00:05
+[download]  86.0% of   32.66MiB at    1.00MiB/s ETA 00:04
+[download]  89.1% of   32.66MiB at    1.00MiB/s ETA 00:03
+[download]  92.2% of   32.66MiB at    1.00MiB/s ETA 00:02
+[download]  95.0% of   32.66MiB at    1.00MiB/s ETA 00:01
+[download]  98.1% of   32.66MiB at    1.00MiB/s ETA 00:00
+[download] 100.0% of   32.66MiB at    1.01MiB/s ETA 00:00
+[download] 100% of   32.66MiB in 00:00:32 at 1.00MiB/s   
+[Merger] Merging formats into "/www/wwwroot/PyhtonP/dmp4/downloads/【艾说】全网首次，实地横评鹤岗2W、20W、200W豪宅.mp4"
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【艾说】全网首次，实地横评鹤岗2W、20W、200W豪宅.f30280.m4a (pass -k to keep)
+Deleting original file /www/wwwroot/PyhtonP/dmp4/downloads/【艾说】全网首次，实地横评鹤岗2W、20W、200W豪宅.f100110.mp4 (pass -k to keep)
+/www/wwwroot/PyhtonP/dmp4/downloads/【艾说】全网首次，实地横评鹤岗2W、20W、200W豪宅.mp4
+Downloads 文件夹下的所有文件已成功删除。
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+Downloads 文件夹下的所有文件已成功删除。
+yt-dlp下载失败，尝试使用youtube-dl...
+Downloads 文件夹下的所有文件已成功删除。
+/www/wwwroot/PyhtonP/dmp4/downloads/%(title)s.%(ext)s
+[19/Feb/2024 05:17:33] "POST / HTTP/1.1" 200 1717
+[19/Feb/2024 05:17:35] "GET /download?file_name=/www/wwwroot/PyhtonP/dmp4/downloads/%E3%80%90%E8%89%BE%E8%AF%B4%E3%80%91%E5%85%A8%E7%BD%91%E9%A6%96%E6%AC%A1%EF%BC%8C%E5%AE%9E%E5%9C%B0%E6%A8%AA%E8%AF%84%E9%B9%A4%E5%B2%972W%E3%80%8120W%E3%80%81200W%E8%B1%AA%E5%AE%85.mp4 HTTP/1.1" 301 0
+[19/Feb/2024 05:24:47] "GET / HTTP/1.0" 200 1200
