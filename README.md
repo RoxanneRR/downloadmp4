@@ -1,10 +1,10 @@
 ### 功能
 
 Django项目，调用yl-dl模块下载视频，目前可用
-* YouTube
-* 哔哩哔哩
-* 搜狐视频
-* TikTok（不是抖音）
+* YouTube```https://www.youtube.com/``` ```https://www.youtube.com/shorts/```
+* 哔哩哔哩```https://www.bilibili.com/```
+* 搜狐视频```https://tv.sohu.com/```
+* TikTok（不是抖音）```https://www.tiktok.com/```
 
 ### 环境
 
@@ -25,7 +25,6 @@ python manage.py runserver
   
 ### 使用
 * 进入网页输入链接点击下载即可。
-* 目前对```https://b23.tv/```开头的短链接解析不好，建议还原为如```https://www.bilibili.com```样式的长链接后再输入。
 * 如无法下载，推荐使用Chrome浏览器、Edge浏览器、Firefox浏览器下载。
 * 如无法播放，推荐使用PotPlayer等解码功能较强的播放器。
   
