@@ -13,7 +13,7 @@ Django项目，调用yl-dl模块下载视频，目前可用
 * Python模块Django  youtube-dl  yt-dlp
 
 ### 运行
-* 安装依赖项（可选）
+* 安装依赖项（可跳过）
 ```
 pip install -r requirements.txt
 ```
