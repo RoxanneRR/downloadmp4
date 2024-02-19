@@ -24,6 +24,7 @@ python manage.py runserver
 ### 使用
 
 * 进入网页输入链接点击下载即可。
+* 目前对```https://b23.tv/```开头的短链接解析不好，建议还原为如```https://www.bilibili.com```样式的长链接后再输入。
 * 如无法下载，推荐使用Chrome浏览器、Edge浏览器、Firefox浏览器下载。
 * 如无法播放，推荐使用PotPlayer等解码功能较强的播放器。
 * 如遇Django跨域问题，可修改```CSRF_TRUSTED_ORIGINS=["https://xxxx.com","http://xxxx.com"]```为信任网址。
