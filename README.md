@@ -25,7 +25,8 @@ python manage.py runserver
   
 ### 使用
 * 进入网页输入链接点击下载即可。
-* 如无法下载，推荐使用Chrome浏览器、Edge浏览器、Firefox浏览器下载。
+* 如下载失败，请确认输入链接格式在支持范围。
+* 如无法弹出下载框，推荐使用Chrome浏览器、Edge浏览器、Firefox浏览器下载。
 * 如无法播放，推荐使用PotPlayer等解码功能较强的播放器。
   
 ### 示例
