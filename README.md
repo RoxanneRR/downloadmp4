@@ -30,5 +30,5 @@ python manage.py runserver
 * 如无法播放，推荐使用PotPlayer等解码功能较强的播放器。
   
 ### 示例
-* [示例网站](http://dl.wenruxiaow.link)。
+* [示例网站](http://136.244.83.50:4455/)。
 * 请不要使用代理连接示例网站。
