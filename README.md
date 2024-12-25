@@ -1,6 +1,6 @@
 ### 功能
 
-Django项目，调用yl-dl模块下载视频，目前可用
+Django项目，使用Python爬虫下载视频，目前可用
 * YouTube```https://www.youtube.com/``` ```https://www.youtube.com/shorts/```
 * 哔哩哔哩```https://www.bilibili.com/```
 * 搜狐视频```https://tv.sohu.com/```
